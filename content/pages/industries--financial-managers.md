@@ -90,6 +90,26 @@ Monthly accounting, tax planning, and quarterly advisory conversations keep us c
 
 We Can Help. Schedule a consultation and see how consolidated, family-level and entity-level reporting can support the families you serve.
 
+<!-- block: faq-accordion -->
+## Frequently Asked Questions
+
+**Q: Do you work with commercial or shared family offices?**
+A: Yes. Family offices are one of our core client groups, and we support offices that serve multiple families as well as single-family structures.
+
+**Q: How does pricing work?**
+A: We charge fixed monthly fees instead of hourly billing, so you know what support costs from month to month.
+
+**Q: Can you help with consolidated reporting across families and entities?**
+A: Yes. Our accounting service is built around monthly close and reconciliations, which supports consolidated reporting along with family and entity balance sheet reporting.
+
+**Q: What does switching accounting firms involve?**
+A: We start with a conversation, build a mutual success plan, and coordinate with your team on accounts and records so the transition is organized and steady.
+
+**Q: Do you serve offices outside Pennsylvania?**
+A: Yes. We are a virtual firm serving clients across the country and around the world.
+
+**Q: Can you support tax planning as well as accounting?**
+A: Yes. We provide year-round tax planning and preparation for entities and individuals, along with audit protection and representation, and advisory conversations on strategy.
 
 ---
 ## SEO & AIO Metadata
