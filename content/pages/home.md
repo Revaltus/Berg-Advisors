@@ -78,7 +78,7 @@ Hourly billing rewards the accountant for taking longer, not for helping you soo
 
 Recognition doesn't replace a track record, but it's a useful second opinion.
 
-- 30+ years of CPA experience, dating to Berg Advisors' founding in Newtown Square, Pennsylvania
+- 30+ years of CPA experience
 - Woodard Top 50 Client Accounting Services Award Firm, spotlighted in 2023
 - Canopy 2021 Innovation Award Finalist, recognizing how the firm uses technology to serve clients faster
 
