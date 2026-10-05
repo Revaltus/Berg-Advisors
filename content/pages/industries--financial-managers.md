@@ -27,7 +27,7 @@ A commercial or shared family office pools resources to serve several affluent f
 
 ### Visibility across entities, accounts, and investments
 
-One family may hold operating companies, trusts, partnerships, real estate, and personal accounts. Pulling that into a single view for Consolidated Reporting takes real coordination, especially when custodians and platforms each report in their own format. Keeping Family Balance Sheet Reporting and Entity Balance Sheet Reporting aligned is a constant effort.
+One family may hold operating companies, trusts, partnerships, real estate, and personal accounts. Pulling that into a single view for consolidated reporting takes real coordination, especially when custodians and platforms each report in their own format. Keeping family balance sheet reporting and entity balance sheet reporting aligned is a constant effort.
 
 ### Separating personal and business activity
 
@@ -35,7 +35,7 @@ Affluent families often have personal spending and business activity flowing thr
 
 ### Administrative volume
 
-Bill Payment Services, reconciliations, and ongoing reporting multiply with every family added. Time spent on routine administration is time away from the work that defines a family office: investment oversight against each Investment Policy Statement, Estate Planning coordination, Philanthropic Advising, and Risk Management.
+Bill payment services, reconciliations, and ongoing reporting multiply with every family added. Time spent on routine administration is time away from the work that defines a family office: investment oversight against each investment policy statement, estate planning coordination, philanthropic advising, and risk management.
 
 ### Tax complexity across households
 
@@ -43,7 +43,7 @@ Multi-entity structures, trusts, gifting, and multi-state exposure create filing
 
 ### Reporting that scales with AUM
 
-As Assets Under Management grow and new families join, reporting expectations rise too. Clients want timely, understandable statements, and the office needs systems that grow along with the book of business.
+As assets under management grow and new families join, reporting expectations rise too. Clients want timely, understandable statements, and the office needs systems that grow along with the book of business.
 
 <!-- block: content-prose -->
 ## How Berg Advisors Supports Family Office Financial Managers
