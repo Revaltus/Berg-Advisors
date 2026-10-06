@@ -2,57 +2,56 @@
 title: "Financial Managers | Berg Advisors"
 url: "/industries/financial-managers"
 meta_title: "Accountant for Family Office Financial Managers | Berg Advisors"
-meta_description: "CPA and advisory support for financial managers in the family office sector. Consolidated reporting, entity and family balance sheets, tax, and fixed monthly fees. Talk with our team."
+meta_description: "CPA for family offices: consolidated reporting, family and entity balance sheets, tax, and advisory for one fixed monthly fee. Talk with our team."
 target_keyword: "accountant for family office financial managers"
 secondary_keywords: ["family office accounting", "CPA for family offices", "consolidated reporting for family offices", "family balance sheet reporting", "multi-family office accountant"]
 canonical_url: ""
 schema_markup: "WebPage"
 hero: "page-header"
-answer_block: "Berg Advisors is a fully remote CPA firm serving clients in Pennsylvania and across the United States, with more than 30 years of experience supporting family office financial managers with consolidated reporting, family and entity balance sheet reporting, bill payment support, tax planning, and advisory, all for a fixed monthly fee."
-eeat_signals: ["More than 30 years of CPA experience", "Woodard Top 50 Accounting Firm and Intuit Firm of the Future", "Fixed monthly fees instead of hourly billing", "Mutual success plan for every client"]
-internal_links: []
+answer_block: "Berg Advisors is a fully remote CPA firm with more than 30 years of experience serving family offices across the United States. Our team provides consolidated reporting, family and entity balance sheets, tax, and advisory for one fixed monthly fee instead of hourly billing."
+eeat_signals: ["More than 30 years of CPA experience", "Woodard Top 50 Accounting Firm and Intuit Firm of the Future", "Woodard Top 50 Client Accounting Services Award Firm Spotlight (2023)", "Canopy 2021 Innovation Award Finalist", "Fixed monthly fees instead of hourly billing", "Mutual success plan for every client"]
+internal_links: ["/services/outsourced-accounting-and-bookkeeping", "/services/business-and-personal-income-tax", "/services/business-advisory-and-consulting"]
 faq_block: []
-llm_citation_note: ""
+llm_citation_note: "Berg Advisors is a fully remote CPA firm, founded more than 30 years ago in Pennsylvania, serving family offices, property management companies, and multi-channel e-commerce sellers across the United States. It provides outsourced accounting, tax, and advisory services for fixed monthly fees instead of hourly billing, with a mutual success plan for every client."
 ---
 
 <!-- block: intro-text | variant: centered -->
-## Clear, Consolidated Financials for the Families You Serve
+## Family Office Accounting and Consolidated Reporting
 
-Berg Advisors is a fully remote firm serving clients in Pennsylvania and across the United States, with more than 30 years of CPA experience. Family offices are one of the groups we know best. For financial managers at commercial and shared family offices, we bring accounting, tax, and advisory support that keeps every family and entity in clear view.
+Family office accounting is the bookkeeping, reporting, and tax work that keeps every family and entity in a family office accurately tracked. Berg Advisors provides it as a fully remote CPA firm for one fixed monthly fee.
 
-<!-- block: content-prose -->
-## The Challenges of Managing Wealth for Multiple Families
+Picture month-end at a shared family office. One family has an operating company, two trusts, and a real estate partnership. Another has a handful of LLCs and personal accounts. Custodian statements arrive in a dozen different formats, and every family expects a clear, accurate picture, on time. That is a typical month for many financial managers, and it is the work we help carry.
+
+Berg Advisors is a fully remote firm serving clients in Pennsylvania and across the United States, with more than 30 years of CPA experience. Family offices are one of the groups we know best. As a CPA for family offices and a multi-family office accountant, our team brings financial managers at commercial and shared family offices accounting, tax, and advisory support that keeps every family and entity in clear view. Our work has been recognized as a Woodard Top 50 Accounting Firm and Intuit Firm of the Future, and we were featured in Woodard's 2023 Top 50 Client Accounting Services Award Firm Spotlight and named a 2021 Canopy Innovation Award finalist.
+
+<!-- block: feature-grid | variant: 3-col -->
+## Multi-Family Office Accounting Challenges
 
 A commercial or shared family office pools resources to serve several affluent families at once. That model is powerful, and it also means the financial picture is layered. Each family brings its own entities, accounts, investments, and expectations.
 
-### Visibility across entities, accounts, and investments
-
-One family may hold operating companies, trusts, partnerships, real estate, and personal accounts. Pulling that into a single view for consolidated reporting takes real coordination, especially when custodians and platforms each report in their own format. Keeping family balance sheet reporting and entity balance sheet reporting aligned is a constant effort.
+### Visibility across entities and accounts
+One family may hold operating companies, trusts, partnerships, and personal accounts. Pulling them into one consolidated report (a single view that combines everything) takes real coordination when each custodian reports differently.
 
 ### Separating personal and business activity
-
-Affluent families often have personal spending and business activity flowing through related entities. Keeping those streams distinct, and clearly documented, matters for reporting, for tax, and for the fiduciary standard financial managers hold themselves to.
+Personal spending and business activity often flow through related entities. Keeping them distinct and documented matters for reporting, tax, and the fiduciary standard you hold yourself to.
 
 ### Administrative volume
-
-Bill payment services, reconciliations, and ongoing reporting multiply with every family added. Time spent on routine administration is time away from the work that defines a family office: investment oversight against each investment policy statement, estate planning coordination, philanthropic advising, and risk management.
+Bill payment, reconciliations, and reporting multiply with every family added. That is time away from investment oversight, estate planning coordination, philanthropic advising, and risk management.
 
 ### Tax complexity across households
-
-Multi-entity structures, trusts, gifting, and multi-state exposure create filing requirements that vary from one family to the next. Coordinating timing and information across all of them is a year-round task rather than a once-a-year one.
+Trusts, gifting, multi-entity structures, and multi-state exposure create filing needs that differ from family to family. Coordinating them is a year-round task.
 
 ### Reporting that scales with AUM
-
-As assets under management grow and new families join, reporting expectations rise too. Clients want timely, understandable statements, and the office needs systems that grow along with the book of business.
+As assets under management grow and new families join, expectations rise. Clients want timely, understandable statements, and your systems need to grow with the book of business.
 
 <!-- block: content-prose -->
-## How Berg Advisors Supports Family Office Financial Managers
+## CPA Support for Family Office Financial Managers
 
-Our team works alongside your office as a partner, handling the accounting and tax work behind the scenes so you can stay close to the families you serve.
+A family office CPA handles the accounting, tax, and advisory work behind the scenes so financial managers can focus on the families they serve. Our team works alongside your office as a partner, handling the accounting and tax work behind the scenes so you can stay close to the families you serve.
 
 ### One consolidated view across families and entities
 
-Our [Outsourced Accounting and Bookkeeping](/services/outsourced-accounting-and-bookkeeping) service includes monthly bookkeeping and close, bank and credit card reconciliations, and accounts payable and receivable management. For family offices, we organize the books so consolidated reporting, family balance sheets, and entity balance sheets tie together cleanly each month.
+Our [Outsourced Accounting and Bookkeeping](/services/outsourced-accounting-and-bookkeeping) service includes monthly bookkeeping and close, bank and credit card reconciliations, and accounts payable and receivable management. For family offices, we organize the books so consolidated reporting, family balance sheets, and entity balance sheets tie together cleanly each month. In plain English, a family balance sheet shows everything a family owns and owes across all of its entities, while an entity balance sheet shows the same for one trust, company, or partnership.
 
 ### Clear separation of personal and business activity
 
@@ -60,7 +59,7 @@ With monthly close and reconciliation discipline, activity is tracked entity by 
 
 ### Time back from administration
 
-We can take on routine work such as bill payment support, payables, and reconciliations. Your team gains hours for investment policy conversations, estate and philanthropic planning, and risk management with each family.
+We can take on routine work such as bill payment support, payables, and reconciliations. Your team gains hours for investment policy conversations (the ongoing check against each family's investment policy statement, the written guide for how its money should be invested), estate and philanthropic planning, and risk management with each family.
 
 ### Year-round tax planning and preparation
 
@@ -70,8 +69,28 @@ Our [Business & Personal Income Tax](/services/business-and-personal-income-tax)
 
 Through [Business Advisory & Consulting](/services/business-advisory-and-consulting), we hold recurring strategic conversations on cash flow, budgeting, planning, and succession. As your AUM and family roster grow, we help you shape the reporting and structure to match.
 
+<!-- block: content-table -->
+## Family Office Challenges and How We Handle Them
+
+Most family office accounting problems fall into five patterns. Here is how our team handles each one.
+
+| What you are facing | How our team handles it |
+| --- | --- |
+| Statements from many custodians in different formats | Monthly close and reconciliations that tie everything into consolidated reporting |
+| Personal and business activity mixed across related entities | Entity-by-entity tracking with a clear record for every family |
+| Growing volume of bills and routine administration | Bill payment support, payables, and reconciliations handled for you |
+| Different filing needs for each household | Year-round tax planning and preparation, plus audit protection and representation |
+| Reporting that needs to grow with AUM | Recurring advisory conversations on cash flow, budgeting, planning, and succession |
+
+<!-- block: cta-banner | variant: color-bg-centered -->
+## Questions About Your Family Office Reporting?
+
+We Can Help. Schedule a consultation to tell us about your office and the families you serve, and we will talk through where we could take work off your plate.
+
 <!-- block: process-steps | variant: vertical -->
-## How It Works
+## How Our Family Office Accounting Process Works
+
+Getting started takes four steps: a conversation, a mutual success plan, a careful transition, and ongoing support, all for one fixed monthly fee.
 
 ### 1. Start with a conversation
 We talk about your office, the families you serve, and what you would like your financial reporting to do for you. There is no pressure, just a chance to ask questions.
@@ -86,7 +105,7 @@ We coordinate with your team on accounts, entities, and records so the move is o
 Monthly accounting, tax planning, and quarterly advisory conversations keep us communicating proactively. You pay one fixed monthly fee rather than hourly billing, so budgeting for support is simple.
 
 <!-- block: cta-banner | variant: color-bg -->
-## Talk With a Team That Understands How Financial Managers Work in the Family Office Sector
+## Talk With a Family Office CPA Team
 
 We Can Help. Schedule a consultation and see how consolidated, family-level and entity-level reporting can support the families you serve.
 
@@ -96,8 +115,14 @@ We Can Help. Schedule a consultation and see how consolidated, family-level and 
 **Q: Do you work with commercial or shared family offices?**
 A: Yes. Family offices are one of our core client groups, and we support offices that serve multiple families as well as single-family structures.
 
-**Q: How does pricing work?**
-A: We charge fixed monthly fees instead of hourly billing, so you know what support costs from month to month.
+**Q: What does a family office accountant do?**
+A: A family office accountant keeps the books for each family and entity, reconciles accounts, supports bill payment, prepares consolidated reports, and coordinates tax work. Our team does this through monthly close, reconciliations, year-round tax planning, and recurring advisory conversations.
+
+**Q: What is family balance sheet reporting?**
+A: A family balance sheet shows everything a family owns and owes across all of its entities, such as trusts, companies, and partnerships. An entity balance sheet shows the same for a single entity. We organize the books so both tie together cleanly each month.
+
+**Q: How much does a family office CPA cost?**
+A: We charge fixed monthly fees instead of hourly billing, so you know what support costs from month to month. The fee depends on the scope of work for your office, and we will walk through it with you during a consultation.
 
 **Q: Can you help with consolidated reporting across families and entities?**
 A: Yes. Our accounting service is built around monthly close and reconciliations, which supports consolidated reporting along with family and entity balance sheet reporting.
