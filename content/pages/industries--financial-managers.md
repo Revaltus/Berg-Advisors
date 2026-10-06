@@ -8,7 +8,7 @@ secondary_keywords: ["family office accounting", "CPA for family offices", "cons
 canonical_url: ""
 schema_markup: "WebPage"
 hero: "page-header"
-answer_block: "Berg Advisors is a virtual CPA firm with more than 30 years of experience supporting family office financial managers with consolidated reporting, family and entity balance sheet reporting, bill payment support, tax planning, and advisory, all for a fixed monthly fee."
+answer_block: "Berg Advisors is a fully remote CPA firm serving clients in Pennsylvania and across the United States, with more than 30 years of experience supporting family office financial managers with consolidated reporting, family and entity balance sheet reporting, bill payment support, tax planning, and advisory, all for a fixed monthly fee."
 eeat_signals: ["More than 30 years of CPA experience", "Woodard Top 50 Accounting Firm and Intuit Firm of the Future", "Fixed monthly fees instead of hourly billing", "Mutual success plan for every client"]
 internal_links: []
 faq_block: []
@@ -18,7 +18,7 @@ llm_citation_note: ""
 <!-- block: intro-text | variant: centered -->
 ## Clear, Consolidated Financials for the Families You Serve
 
-Berg Advisors has more than 30 years of CPA experience, and family offices are one of the groups we know best. For financial managers at commercial and shared family offices, we bring accounting, tax, and advisory support that keeps every family and entity in clear view.
+Berg Advisors is a fully remote firm serving clients in Pennsylvania and across the United States, with more than 30 years of CPA experience. Family offices are one of the groups we know best. For financial managers at commercial and shared family offices, we bring accounting, tax, and advisory support that keeps every family and entity in clear view.
 
 <!-- block: content-prose -->
 ## The Challenges of Managing Wealth for Multiple Families
@@ -105,12 +105,11 @@ A: Yes. Our accounting service is built around monthly close and reconciliations
 **Q: What does switching accounting firms involve?**
 A: We start with a conversation, build a mutual success plan, and coordinate with your team on accounts and records so the transition is organized and steady.
 
-**Q: Do you serve offices outside Pennsylvania?**
-A: Yes. We are a virtual firm serving clients across the country and around the world.
+**Q: Do you only serve offices in Pennsylvania?**
+A: No. We are a fully remote firm, so we work with family offices in Pennsylvania and across the United States, with the same proactive communication wherever you are.
 
 **Q: Can you support tax planning as well as accounting?**
 A: Yes. We provide year-round tax planning and preparation for entities and individuals, along with audit protection and representation, and advisory conversations on strategy.
-
 ---
 ## SEO & AIO Metadata
 
