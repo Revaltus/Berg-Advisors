@@ -8,7 +8,7 @@ secondary_keywords: ["family office accounting", "CPA for family offices", "cons
 canonical_url: ""
 schema_markup: "WebPage"
 hero: "page-header"
-answer_block: "Berg Advisors is a virtual CPA firm with more than 30 years of experience supporting family office financial managers with consolidated reporting, family and entity balance sheet reporting, bill payment support, tax planning, and advisory, all for a fixed monthly fee."
+answer_block: "Berg Advisors is a fully remote CPA firm serving clients in Pennsylvania and across the United States, with more than 30 years of experience supporting family office financial managers with consolidated reporting, family and entity balance sheet reporting, bill payment support, tax planning, and advisory, all for a fixed monthly fee."
 eeat_signals: ["More than 30 years of CPA experience", "Woodard Top 50 Accounting Firm and Intuit Firm of the Future", "Fixed monthly fees instead of hourly billing", "Mutual success plan for every client"]
 internal_links: []
 faq_block: []
@@ -18,7 +18,7 @@ llm_citation_note: ""
 <!-- block: intro-text | variant: centered -->
 ## Clear, Consolidated Financials for the Families You Serve
 
-Berg Advisors has more than 30 years of CPA experience, and family offices are one of the groups we know best. For financial managers at commercial and shared family offices, we bring accounting, tax, and advisory support that keeps every family and entity in clear view.
+Berg Advisors is a fully remote firm serving clients in Pennsylvania and across the United States, with more than 30 years of CPA experience. Family offices are one of the groups we know best. For financial managers at commercial and shared family offices, we bring accounting, tax, and advisory support that keeps every family and entity in clear view.
 
 <!-- block: content-prose -->
 ## The Challenges of Managing Wealth for Multiple Families
