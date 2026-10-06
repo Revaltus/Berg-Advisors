@@ -75,7 +75,7 @@ Clean books answer what happened last month. Advisory answers what to do next, t
 - Succession planning
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Specialized support for Amazon and Shopify sellers, family offices, and property managers
+## Specialized support for e-commerce, family offices, and property managers
 
 Generic bookkeeping breaks down fast in these three specialties, which make up most of our client base.
 
