@@ -109,8 +109,14 @@ We Can Help. Schedule a consultation and see how consolidated, family-level and 
 **Q: Do you work with commercial or shared family offices?**
 A: Yes. Family offices are one of our core client groups, and we support offices that serve multiple families as well as single-family structures.
 
-**Q: How does pricing work?**
-A: We charge fixed monthly fees instead of hourly billing, so you know what support costs from month to month.
+**Q: What does a family office accountant do?**
+A: A family office accountant keeps the books for each family and entity, reconciles accounts, supports bill payment, prepares consolidated reports, and coordinates tax work. Our team does this through monthly close, reconciliations, year-round tax planning, and recurring advisory conversations.
+
+**Q: What is family balance sheet reporting?**
+A: A family balance sheet shows everything a family owns and owes across all of its entities, such as trusts, companies, and partnerships. An entity balance sheet shows the same for a single entity. We organize the books so both tie together cleanly each month.
+
+**Q: How much does a family office CPA cost?**
+A: We charge fixed monthly fees instead of hourly billing, so you know what support costs from month to month. The fee depends on the scope of work for your office, and we will walk through it with you during a consultation.
 
 **Q: Can you help with consolidated reporting across families and entities?**
 A: Yes. Our accounting service is built around monthly close and reconciliations, which supports consolidated reporting along with family and entity balance sheet reporting.
