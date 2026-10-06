@@ -105,12 +105,11 @@ A: Yes. Our accounting service is built around monthly close and reconciliations
 **Q: What does switching accounting firms involve?**
 A: We start with a conversation, build a mutual success plan, and coordinate with your team on accounts and records so the transition is organized and steady.
 
-**Q: Do you serve offices outside Pennsylvania?**
-A: Yes. We are a virtual firm serving clients across the country and around the world.
+**Q: Do you only serve offices in Pennsylvania?**
+A: No. We are a fully remote firm, so we work with family offices in Pennsylvania and across the United States, with the same proactive communication wherever you are.
 
 **Q: Can you support tax planning as well as accounting?**
 A: Yes. We provide year-round tax planning and preparation for entities and individuals, along with audit protection and representation, and advisory conversations on strategy.
-
 ---
 ## SEO & AIO Metadata
 
