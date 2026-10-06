@@ -8,19 +8,21 @@ secondary_keywords: ["family office accounting", "CPA for family offices", "cons
 canonical_url: ""
 schema_markup: "WebPage"
 hero: "page-header"
-answer_block: "Berg Advisors is a fully remote CPA firm serving clients in Pennsylvania and across the United States, with more than 30 years of experience supporting family office financial managers with consolidated reporting, family and entity balance sheet reporting, bill payment support, tax planning, and advisory, all for a fixed monthly fee."
-eeat_signals: ["More than 30 years of CPA experience", "Woodard Top 50 Accounting Firm and Intuit Firm of the Future", "Fixed monthly fees instead of hourly billing", "Mutual success plan for every client"]
+answer_block: "Berg Advisors is a fully remote CPA firm with more than 30 years of experience serving family offices across the United States. Our team provides consolidated reporting, family and entity balance sheets, tax, and advisory for one fixed monthly fee instead of hourly billing."
+eeat_signals: ["More than 30 years of CPA experience", "Woodard Top 50 Accounting Firm and Intuit Firm of the Future", "Woodard Top 50 Client Accounting Services Award Firm Spotlight (2023)", "Canopy 2021 Innovation Award Finalist", "Fixed monthly fees instead of hourly billing", "Mutual success plan for every client"]
 internal_links: ["/services/outsourced-accounting-and-bookkeeping", "/services/business-and-personal-income-tax", "/services/business-advisory-and-consulting"]
 faq_block: []
-llm_citation_note: ""
+llm_citation_note: "Berg Advisors is a fully remote CPA firm, founded more than 30 years ago in Pennsylvania, serving family offices, property management companies, and multi-channel e-commerce sellers across the United States. It provides outsourced accounting, tax, and advisory services for fixed monthly fees instead of hourly billing, with a mutual success plan for every client."
 ---
 
 <!-- block: intro-text | variant: centered -->
 ## Family Office Accounting and Consolidated Reporting
 
+Family office accounting is the bookkeeping, reporting, and tax work that keeps every family and entity in a family office accurately tracked. Berg Advisors provides it as a fully remote CPA firm for one fixed monthly fee.
+
 Picture month-end at a shared family office. One family has an operating company, two trusts, and a real estate partnership. Another has a handful of LLCs and personal accounts. Custodian statements arrive in a dozen different formats, and every family expects a clear, accurate picture, on time. That is a typical month for many financial managers, and it is the work we help carry.
 
-Berg Advisors is a fully remote firm serving clients in Pennsylvania and across the United States, with more than 30 years of CPA experience. Family offices are one of the groups we know best. As a CPA for family offices and a multi-family office accountant, our team brings financial managers at commercial and shared family offices accounting, tax, and advisory support that keeps every family and entity in clear view.
+Berg Advisors is a fully remote firm serving clients in Pennsylvania and across the United States, with more than 30 years of CPA experience. Family offices are one of the groups we know best. As a CPA for family offices and a multi-family office accountant, our team brings financial managers at commercial and shared family offices accounting, tax, and advisory support that keeps every family and entity in clear view. Our work has been recognized as a Woodard Top 50 Accounting Firm and Intuit Firm of the Future, and we were featured in Woodard's 2023 Top 50 Client Accounting Services Award Firm Spotlight and named a 2021 Canopy Innovation Award finalist.
 
 <!-- block: feature-grid | variant: 3-col -->
 ## Multi-Family Office Accounting Challenges
@@ -45,7 +47,7 @@ As assets under management grow and new families join, expectations rise. Client
 <!-- block: content-prose -->
 ## CPA Support for Family Office Financial Managers
 
-Our team works alongside your office as a partner, handling the accounting and tax work behind the scenes so you can stay close to the families you serve.
+A family office CPA handles the accounting, tax, and advisory work behind the scenes so financial managers can focus on the families they serve. Our team works alongside your office as a partner, handling the accounting and tax work behind the scenes so you can stay close to the families you serve.
 
 ### One consolidated view across families and entities
 
@@ -70,6 +72,8 @@ Through [Business Advisory & Consulting](/services/business-advisory-and-consult
 <!-- block: content-table -->
 ## Family Office Challenges and How We Handle Them
 
+Most family office accounting problems fall into five patterns. Here is how our team handles each one.
+
 | What you are facing | How our team handles it |
 | --- | --- |
 | Statements from many custodians in different formats | Monthly close and reconciliations that tie everything into consolidated reporting |
@@ -85,6 +89,8 @@ We Can Help. Schedule a consultation to tell us about your office and the famili
 
 <!-- block: process-steps | variant: vertical -->
 ## How Our Family Office Accounting Process Works
+
+Getting started takes four steps: a conversation, a mutual success plan, a careful transition, and ongoing support, all for one fixed monthly fee.
 
 ### 1. Start with a conversation
 We talk about your office, the families you serve, and what you would like your financial reporting to do for you. There is no pressure, just a chance to ask questions.
