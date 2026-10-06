@@ -27,8 +27,13 @@ Clients come to us because they want someone they can actually call, their busin
 
 We're a virtual CPA firm with 30+ years of experience and Pennsylvania roots, serving [e-commerce sellers](/industries/e-commerce), [property management companies](/industries/property-management), and [family offices](/industries/family-offices) nationwide. [Our team](/about-us) is proactive and plain-spoken, and every service runs on a flat monthly fee.
 
-<!-- block: content-split | variant: image-right | image: bookkeeping-monthly-close-review.jpg | alt: "Accountant reviewing bank reconciliation reports on a laptop screen" | query: "bookkeeper reviewing financial reports laptop" -->
-## Accounting and bookkeeping that keeps your books close-ready
+<!-- block: service-cards | variant: 3-col -->
+## Our core services at a glance
+
+Three services, one team that already knows your numbers.
+
+### Accounting and bookkeeping that keeps your books close-ready
+icon: Calculator
 
 Our monthly close produces reporting that holds up when a bank, investor, or buyer asks for GAAP-compliant numbers. We also guide growing businesses converting from cash-basis to accrual accounting ahead of a loan or investor round.
 
@@ -42,8 +47,8 @@ Every engagement includes quarterly advisory calls, not just a monthly PDF, so w
 - Monthly financial reporting
 - Quarterly advisory and strategic conversations
 
-<!-- block: content-split | variant: image-left | image: tax-planning-consultation-documents.jpg | alt: "CPA reviewing tax documents and forms with a client at a desk" | query: "tax advisor reviewing documents with client" -->
-## Business and personal tax planning and preparation done year-round
+### Business and personal tax planning and preparation done year-round
+icon: FileText
 
 Tax season shouldn't be the first time you hear from your CPA. We plan year-round, and for product-based businesses we advise on multi-state sales tax nexus: when a new warehouse, third-party logistics provider, or economic nexus threshold means you need to register and file in a new state.
 
@@ -56,8 +61,8 @@ Tax season shouldn't be the first time you hear from your CPA. We plan year-roun
 - Multi-state sales tax nexus guidance
 - Audit protection and representation
 
-<!-- block: content-split | variant: image-right | image: business-advisory-strategy-meeting.jpg | alt: "Advisor and business owner discussing charts during a strategy meeting" | query: "business advisor strategy meeting charts" -->
-## Business advisory and consulting to guide bigger decisions
+### Business advisory and consulting to guide bigger decisions
+icon: TrendingUp
 
 Clean books answer what happened last month. Advisory answers what to do next, through recurring calls instead of one annual meeting. For inventory-heavy businesses such as CPG brands, wholesalers, and distributors, that includes cash flow forecasting tied to purchase orders and margin analysis by SKU.
 
@@ -114,15 +119,6 @@ Every engagement runs on a flat monthly fee set before work begins, so a quick c
 - Fixed monthly pricing, no hourly clock
 - Clear responsibilities on both sides
 - Recurring calls scheduled in advance
-
-<!-- block: content-table -->
-## Flat monthly fee vs. hourly billing
-
-| | Flat monthly fee (our approach) | Hourly billing |
-|---|---|---|
-| Cost predictability | Fixed fee set before work begins | Varies with every call and email |
-| Calling with a quick question | Encouraged, no extra charge | Often triggers a billable line item |
-| Advisory conversations | Scheduled in advance | Typically only when you initiate |
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Accounting, Bookkeeping, Tax, & Advisory Services
