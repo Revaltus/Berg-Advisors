@@ -23,18 +23,16 @@ llm_citation_note: "Berg Advisors is a virtual CPA firm rooted in Pennsylvania, 
 <!-- block: intro-text | variant: centered -->
 ## One firm for accounting, bookkeeping, tax, and advisory
 
-Most clients come to us for one of three reasons: they want someone they can actually call with a question, their business outgrew its old accounting firm, or they're ready for next-level advice on strategy. Instead of juggling a bookkeeper, a tax preparer, and a part-time advisor who never talk to each other, Berg Advisors combines accounting, bookkeeping, tax, and advisory work under one roof. One team already knows your numbers before you have to explain them again.
+Clients come to us because they want someone they can actually call, their business outgrew its old firm, or they're ready for next-level strategy advice. Instead of juggling a bookkeeper, a tax preparer, and an advisor who never talk, you get one team that already knows your numbers.
 
-We're a virtual CPA firm with more than 30 years of experience and roots in Pennsylvania, serving [e-commerce sellers](/industries/e-commerce), [property management companies](/industries/property-management), and [family offices](/industries/family-offices) nationwide. [Our team](/about-us) is proactive and plain-spoken, and every service is billed at a flat monthly rate. The three service pillars below, outsourced accounting, tax, and advisory, are built to work together, not as separate line items you have to coordinate yourself.
+We're a virtual CPA firm with 30+ years of experience and Pennsylvania roots, serving [e-commerce sellers](/industries/e-commerce), [property management companies](/industries/property-management), and [family offices](/industries/family-offices) nationwide. [Our team](/about-us) is proactive and plain-spoken, and every service runs on a flat monthly fee.
 
 <!-- block: content-split | variant: image-right | image: bookkeeping-monthly-close-review.jpg | alt: "Accountant reviewing bank reconciliation reports on a laptop screen" | query: "bookkeeper reviewing financial reports laptop" -->
 ## Accounting and bookkeeping that keeps your books close-ready
 
-Bookkeeping should do more than produce a report you file away. Our monthly close covers bank and credit card reconciliations, accounts payable and receivable management, and financial reporting built to hold up when a bank, investor, or buyer asks for GAAP-compliant numbers.
+Our monthly close produces reporting that holds up when a bank, investor, or buyer asks for GAAP-compliant numbers. We also guide growing businesses converting from cash-basis to accrual accounting ahead of a loan or investor round.
 
-For growing businesses moving off cash-basis accounting, that shift matters. Berg Advisors works directly with clients converting to accrual accounting ahead of a loan application or an investor round, walking through what changes on the financial statements and why it affects the numbers a lender actually looks at.
-
-Every engagement includes quarterly advisory calls, not just a monthly PDF. We flag the receivable balance creeping up, the margin that slipped a point, or the vendor payment about to land right before a tax deadline, before you have to ask.
+Every engagement includes quarterly advisory calls, not just a monthly PDF, so we flag problems before you have to ask.
 
 **What's included:**
 
@@ -47,9 +45,7 @@ Every engagement includes quarterly advisory calls, not just a monthly PDF. We f
 <!-- block: content-split | variant: image-left | image: tax-planning-consultation-documents.jpg | alt: "CPA reviewing tax documents and forms with a client at a desk" | query: "tax advisor reviewing documents with client" -->
 ## Business and personal tax planning and preparation done year-round
 
-Tax season shouldn't be the first time you hear from your CPA. We handle business tax preparation, personal income tax preparation, and year-end 1099 filings, but the bulk of the work happens in the months before any of it is due.
-
-Multi-state sales tax nexus is where this shows up most for product-based businesses. Once you're shipping into a new state, whether from a new warehouse, a third-party logistics provider, or an economic nexus threshold you've crossed, you likely owe sales tax there. We advise e-commerce and wholesale clients on registering, filing, and staying compliant as they expand across state lines.
+Tax season shouldn't be the first time you hear from your CPA. We plan year-round, and for product-based businesses we advise on multi-state sales tax nexus: when a new warehouse, third-party logistics provider, or economic nexus threshold means you need to register and file in a new state.
 
 **What's included:**
 
@@ -63,11 +59,7 @@ Multi-state sales tax nexus is where this shows up most for product-based busine
 <!-- block: content-split | variant: image-right | image: business-advisory-strategy-meeting.jpg | alt: "Advisor and business owner discussing charts during a strategy meeting" | query: "business advisor strategy meeting charts" -->
 ## Business advisory and consulting to guide bigger decisions
 
-Clean books answer what happened last month. Advisory work answers what to do next. Our consulting engagements cover strategic planning, cash flow management, budget development, and succession planning, delivered through recurring calls instead of a single annual meeting.
-
-For inventory-heavy businesses outside the pure e-commerce space, think CPG brands, wholesalers, and distributors, Berg Advisors provides advisory services: cash flow forecasting tied to purchase order timing, margin analysis by SKU, and the financial modeling that supports a bank conversation or an equity raise.
-
-The point of every advisory call is the same: catch the decision while it's still a decision, not after it's already been made.
+Clean books answer what happened last month. Advisory answers what to do next, through recurring calls instead of one annual meeting. For inventory-heavy businesses such as CPG brands, wholesalers, and distributors, that includes cash flow forecasting tied to purchase orders and margin analysis by SKU.
 
 **What's included:**
 
@@ -80,27 +72,27 @@ The point of every advisory call is the same: catch the decision while it's stil
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Specialized support for Amazon and Shopify sellers, family offices, and property managers
 
-Generic bookkeeping breaks down fast in a handful of specific industries. These three make up most of our client base, and each comes with its own reconciliation problems, reporting demands, and compliance risk.
+Generic bookkeeping breaks down fast in these three specialties, which make up most of our client base.
 
 ### Multi-channel e-commerce
 icon: Globe
 
-Reconciling Amazon, Shopify, eBay, Etsy, and Walmart payouts against actual bank deposits takes more than a spreadsheet. As an ecommerce accountant for Amazon sellers and a CPA for Shopify and multi-channel sellers, we manage inventory accounting, multi-state sales tax nexus, and accrual-basis reporting built for sellers scaling past a single platform. [Learn more](/industries/e-commerce)
+As an ecommerce accountant for Amazon sellers and a CPA for Shopify and multi-channel sellers, we reconcile Amazon, Shopify, eBay, Etsy, and Walmart payouts to your bank deposits and manage inventory accounting and multi-state sales tax nexus. [Learn more](/industries/e-commerce)
 
 ### Family offices
 icon: Users
 
-Multiple entities, multiple accounts, and personal and business expenses that tend to blur together create a visibility problem long before tax season arrives. We consolidate reporting across entities and investments so you're looking at one clear picture instead of six disconnected ones. [Learn more](/industries/family-offices)
+We consolidate reporting across entities, accounts, and investments so you see one clear picture instead of several disconnected ones. [Learn more](/industries/family-offices)
 
 ### Property management companies
 icon: Building2
 
-Tracking income, expenses, and owner distributions across a portfolio of properties and entities usually means a patchwork of spreadsheets. We give property managers one centralized view across every property and entity, so performance is visible at the portfolio level and the individual unit level, with no more spreadsheet juggling. [Learn more](/industries/property-management)
+One centralized view of income, expenses, and owner distributions across every property and entity, with no more spreadsheet juggling. [Learn more](/industries/property-management)
 
 <!-- block: process-steps | variant: horizontal -->
 ## How working with us works
 
-A relationship-driven firm should be easy to picture. Here's what the first few months look like.
+Here's what the first few months look like.
 
 ### 1. A conversation
 We start by listening: where your business is, what's frustrating, and where you want it to go.
@@ -117,26 +109,20 @@ We talk on a set schedule, so decisions, tax questions, and surprises get handle
 <!-- block: checklist-section | variant: with-image-left | image: flat-fee-agreement-handshake.jpg | alt: "Advisor and client reviewing a signed service agreement together" | query: "advisor client reviewing agreement document" -->
 ## Flat monthly fees and a mutual success plan for every client
 
-Hourly billing punishes you for calling with a question. Every Berg Advisors engagement runs on a flat monthly fee, set before work begins, so a quick call about a vendor invoice doesn't turn into a surprise line item.
-
-Every new client also gets a mutual success plan: a written agreement covering what we handle, what you handle, and how often we talk. 
+Every engagement runs on a flat monthly fee set before work begins, so a quick call never becomes a surprise invoice. Every client also gets a written mutual success plan.
 
 - Fixed monthly pricing, no hourly clock
-- A written mutual success plan defining responsibilities on both sides
-- Recurring calls scheduled in advance, not triggered only when something breaks
+- Clear responsibilities on both sides
+- Recurring calls scheduled in advance
 
 <!-- block: content-table -->
 ## Flat monthly fee vs. hourly billing
-
-Here's how the two models compare in day-to-day practice.
 
 | | Flat monthly fee (our approach) | Hourly billing |
 |---|---|---|
 | Cost predictability | Fixed fee set before work begins | Varies with every call and email |
 | Calling with a quick question | Encouraged, no extra charge | Often triggers a billable line item |
-| Scope of work | Written in a mutual success plan | Often loosely defined |
 | Advisory conversations | Scheduled in advance | Typically only when you initiate |
-| Tax-season surprises | Planned for year-round | More common |
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Accounting, Bookkeeping, Tax, & Advisory Services
@@ -171,9 +157,9 @@ A: Yes. Berg Advisors works with growing businesses making that shift, typically
 <!-- block: cta-banner | variant: image-bg | image: cpa-team-consultation-call.jpg | alt: "CPA smiling during a video consultation call with a client" | query: "accountant video call consultation smiling" -->
 ## Let's talk about what your business needs
 
-Every client, whether e-commerce, property management, or a family office managing several entities, started the same way: a conversation about what's going on in the books. Tell us where things stand, and we'll tell you plainly what we'd do about it.
+Tell us where things stand, and we'll tell you plainly what we'd do about it.
 
-[Schedule a consultation](/contact-us) and see what a flat-fee, relationship-driven CPA firm looks like in practice.
+[Schedule a consultation](/contact-us) to get started.
 
 ---
 ## SEO & AIO Metadata
