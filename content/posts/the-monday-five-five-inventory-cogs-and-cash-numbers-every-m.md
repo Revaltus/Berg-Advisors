@@ -16,12 +16,188 @@ canonical_url: https://www.bergpartners.com/resources/the-monday-five-five-inven
 schema_markup: "FAQPage"
 answer_block: "Multi-channel sellers can check their financial health in ten minutes each Monday by reviewing five numbers: cash against upcoming supplier payments, weeks of inventory per top SKU, blended gross margin after fees and returns, inventory value against the balance sheet, and pending marketplace payouts. Each number works best when it comes from one reconciled set of books rather than separate platform reports."
 ---
-Most multi-channel sellers have five tabs open on Monday morning: Seller Central, Shopify, Etsy, eBay, and Walmart Seller Center. Each one shows a sales number. None of them tells you whether you can cover the supplier deposit due in three weeks. That gap is where profitable brands run short on cash, and it is why our CPA team built a short weekly routine we call the Monday Five.
 
-It takes about ten minutes. It uses five numbers, each with a plain-English picture of what good looks like and a trigger for when to pick up the phone. Screenshot it, forward it to another seller, or tape it next to your monitor.
+An e-commerce business can generate impressive sales. But it may still struggle to produce steady profit. Just revenue doesn’t show the full picture.
 
-## The Monday Five at a glance
+Online sellers need to handle inventory & COGS. They have to manage gross margin & marketplace fees. Plus, they face shipping costs, advertising expenses, and more.
 
+Ecommerce inventory accounting is important to know how an online business is performing. Inventory & C.O.G.S. must be recorded accurately. Then, business owners don’t need to worry about how much they sold. They can start answering more valuable questions. They can know about profitability, margins, etc.
+
+## **Why Revenue Alone Doesn’t Show E-Commerce Profitability**
+
+An online store may produce $100k. That number sounds impressive. But it won’t tell you how much the company is earning.
+
+The business can also have-
+
+- Product prices
+- Marketplace fees
+- Payment processing
+- Shipping costs
+- Returns & refunds
+- Advertising prices
+- Warehousing expenditures
+- Payroll
+- Software subscriptions
+- Other costs
+
+Companies must think about such costs. Then they can understand the business’s profit. This is why financial reporting needs to move beyond revenue and include the costs associated with generating that revenue.
+
+## **What COGS Means for Online Sellers**
+
+**Cost of Goods Sold (COGS)** represents the direct costs associated with the products a business sells. These costs may include product acquisition, manufacturing, and other expenses directly related to producing or purchasing goods.
+
+**Why Accurate COGS Matters**
+
+Accurate COGS tracking is essential for calculating gross profit and gross margin. Even small errors can lead to misleading financial reports and poor business decisions.
+
+**Here are the two key formulas to remember:**
+
+**Gross Profit = Sales − COGS**
+
+**Gross Margin (%) = (Gross Profit ÷ Sales) × 100**
+
+Incorrect COGS figures can distort gross profit and lead to inaccurate gross-margin calculations, making it harder to understand your business’s true profitability.
+
+**Berg Advisors** helps online sellers maintain accurate financial records through e-commerce bookkeeping services, including inventory management and COGS tracking, so you can make informed decisions and manage your business with confidence.
+
+## **How Inventory Affects Cash Flow**
+
+Inventory creates an important connection. This is between profitability & cash flow. A business may need to pay suppliers before they sell items.
+
+They need to think of a seasonal retailer. Thus, they can get ready for a holiday sales period. It may purchase inventory in advance. The business could therefore face cash outflows.
+
+Here,[ ecommerce cash flow management](https://www.bergpartners.com/advisory/cash-flow-financial-management-services/) is very important. Cash-flow forecasting helps business owners a lot. They can estimate future cash needs. They can find out periods of pressure.
+
+## **Inventory Purchases Are Not the Same as COGS**
+
+This distinction is especially important for growing online businesses. Buying inventory and selling inventory are different financial events. A company might purchase $50k worth of products during a month. But they may sell only a portion.
+
+They must not consider that the full purchase is an immediate cost of products sold. They must be careful about applicable accounting treatment. Otherwise, financial statements may not represent the correct profitability. Ideal ecommerce inventory accounting is crucial. This can link product costs & sales.
+
+## **Marketplace Fees, Shipping and Refunds Matter Too**
+
+C.O.G.S. is important. But it is not the only cost impacting online profitability. Online sellers may should also keep an eye on-
+
+- Marketplace commissions
+- Payment processing fees
+- Fulfillment prices
+- Shipping
+- Returns
+- Refunds
+- Advertising
+- Storage
+- Software
+- Customer acquisition costs
+
+These costs vary between products & sales channels.
+
+A product with a high sales price may appear profitable. But there are marketplace fees, advertising costs & shipping. There are also returns & product costs.
+
+So, genuine[ ecommerce accounting](https://www.bergpartners.com/accounting/e-commerce-accounting/) is valuable for businesses. With this, they can get a clearer picture of profitability.
+
+## **Gross Margin vs. Net Profit**
+
+Gross margin & net profit answer multiple questions.
+
+Gross margin revolves around the relationship between sales & the direct costs. Net profit considers the broader financial picture. This comes in to play after operating expenses & other applicable costs are subtracted.
+
+A business may have a healthy gross margin. But it can have a lower net profit. This can happen as it spends heavily. It may have to manage advertising, payroll & technology. It also may have to deal with fulfillment, etc. Looking at both measures is crucial for business owners. They can understand where profitability is being impacted.
+
+## **Financial KPIs E-Commerce Businesses Should Monitor**
+
+The right KPIs vary by business model. But online merchants may benefit from tracking certain metrics. See below-
+
+**Gross Margin**
+
+**Net Profit Margin**
+
+**Inventory Turnover**
+
+**Average Order Value**
+
+**Return Rate**
+
+**Advertising Efficiency**
+
+**Channel-Level Profitability**
+
+**Cash Conversion**
+
+A KPI dashboard is more useful if the fundamental accounting records are fine.
+
+## **Why Multi-Channel Sellers Need Consistent Data**
+
+Do you sell through Amazon, Shopify, Walmart, or Etsy? Or do you rely on a proprietary website or wholesale channels? This creates more than 1 source of economic data.
+
+Each channel may have its own-
+
+- Sales reports
+- Fee framework
+- Settlement schedule
+- Refund method
+- Payment processor
+- Inventory
+
+Business owners must opt for good reconciliation. Thus, they don’t have to struggle. They can determine which channel is generating the most robust monetary outcomes. Berg Advisors provides[ multi-channel accounting](https://www.bergpartners.com/accounting/e-commerce-multi-channel/). This helps to help e-commerce businesses a lot. They can bring multiple sales channels into an organized financial process.
+
+## **How Accurate Bookkeeping Improves Forecasting**
+
+Forecasting is important, just like the information behind it. Revenue must be recorded incorrectly. Otherwise, inventory balances can be outdated, or expenses can be missing. Then, a cash-flow forecast may not provide a 100% picture of upcoming necessities.
+
+Accurate[ ecommerce bookkeeping](https://www.bergpartners.com/accounting/e-commerce-bookkeeping/) is beneficial for financial reporting & prediction. The financial information must be up-to-date. Otherwise, businesses have to check historical patterns. Then they should use them as one input. This helps them while planning future inventory purchases. Plus, operating costs & cash needs also become easy.
+
+## **When Professional Ecommerce Inventory Accounting Becomes Useful**
+
+Professional support is very valuable. An online business needs this if they are facing financial complexity. Common signs are-
+
+- Several sales channels
+- Large stock
+- Difficulty reconciling payouts
+- Not-so-clear product margins
+- Too many refunds & returns
+- Fast scaling revenue
+- Cash-flow heaviness
+- Tax requirements
+- Contradictory financial reporting
+- Extra time spent on bookkeeping
+
+The aim must not be to outsource data entry. The objective is to create a financial process. And this must produce information for planning & decision-making.
+
+## **Turn Inventory Data Into Better Business Decisions**
+
+Inventory, COGS, profitability, & cash flow should be linked. Business owners must not track these numbers separately. Then, they’ll miss important relationships. They must they are reviewed it together. Hence, they can know how purchasing decisions affect cash & how product costs affect margins. They can also learn how sales growth ruins working-capital necessities.
+
+Berg Advisors supports e-commerce businesses. Our team offers bookkeeping, accounting & COGS tracking. Plus, we offer financial reporting & KPI dashboards, etc.
+
+Do you want a fuller view of your online business?[ Contact Berg Advisors for a free accounting consultation](https://www.bergpartners.com/contact-us/).
+
+## **A Better Financial View for Growing Online Sellers**
+
+E-commerce growth creates opportunities. But this also pushes monetary complexity. Tracking revenue only is never adequate. Online sellers should understand how marketplace fees, operating expenses & cash flow interrelate. Thus, regular financial reporting & ecommerce inventory accounting becomes so much crucial. This turns that information into business insights.
+
+Are you all set to strengthen your e-commerce financial process?[ Schedule a free consultation with Berg Advisors](https://www.bergpartners.com/).
+
+## **FAQs**
+
+**Why is inventory accounting important for e-commerce businesses?**
+
+Inventory accounting helps online sellers very much. They can check the cost & value of products. They can also learn how inventory impacts profitability & cash flow. Accurate inventory records are crucial for COGS calculations & financial reporting.
+
+**What is COGS in e-commerce accounting?**
+
+COGS points out to the applicable costs. These are linked to products sold. Tracking COGS helps e-commerce businesses. They can calculate gross profit. Plus, they can evaluate product margins.
+
+**How does inventory affect e-commerce cash flow?**
+
+Inventory purchases require significant cash. Then, they can sell their items. See if inventory grows faster than sales. Then, more cash can get tied up in unsold items. Monitoring inventory & forecasting cash flow can facilitate optimum purchasing choices.
+
+**What e-commerce financial KPIs should online sellers track?**
+
+Good KPIs are gross margin & net profit margin. These also include inventory turnover & average order value. Plus, there can be return rate, advertising efficiency, etc.
+
+**When does an online seller need professional e-commerce bookkeeping?**
+
+Professional e-commerce bookkeeping becomes valuable. This is when en a seller operates multiple sales channels or manages substantial inventory. This is important if complex marketplace payouts or struggles to compute product profitability.
 | # | Number | What good looks like | Call us when |
 |---|--------|----------------------|--------------|
 | 1 | Cash on hand vs. upcoming supplier payments | Cash covers the next 30 days of supplier bills, ads, payroll, and sales tax, with a cushion | Cash drops below 30 days of coverage |
@@ -30,35 +206,6 @@ It takes about ten minutes. It uses five numbers, each with a plain-English pict
 | 4 | Inventory value tied to the balance sheet | Ledger within 1 to 2 percent of physical counts | Gap exceeds 2 percent |
 | 5 | Marketplace payouts still pending | Every channel paid inside its normal window | Any payout is 3+ days late or shrinking |
 
-Here is how to run each one.
-
-## 1. Cash on hand against upcoming supplier payments
-
-Open your bank balances, then list every supplier payment due in the next 30 days. Add ad spend, payroll, credit card payments, and any sales tax remittance. Compare the two totals.
-
-Say you have $86,000 across your accounts. A $40,000 production deposit is due in 10 days and a $35,000 balance lands in 24. That leaves $11,000 for everything else, including a card bill and two weeks of ad spend. The business is healthy and still has a problem.
-
-**What good looks like:** cash covers the next 30 days of known obligations with a cushion, ideally 1.25 times the total. Sellers with long production cycles often want more.
-
-**When to call us:** the moment coverage drops below 30 days. That is the point where a conversation about timing payouts, negotiating terms, or adjusting a purchase order is still cheap. At 5 days, it is a scramble.
-
-## 2. Weeks of inventory on hand for each top SKU
-
-Pick your top five to ten SKUs by revenue. For each one, divide units on hand (including units at Amazon FBA, a 3PL, and in transit) by average weekly units sold across all channels. The answer is weeks of inventory.
-
-This is the weekly cousin of inventory turnover. If a SKU turns 4 times a year, you hold about 13 weeks of stock (52 divided by 4). Looking at it in weeks is more useful on a Monday, because you can hold it up against your lead time.
-
-Example: a top SKU sells 180 units a week across Amazon, Shopify, and Walmart, and you hold 2,700 units. That is 15 weeks. If production takes 6 weeks and shipping another 4, your lead time is 10 weeks. You have a 5-week window before a stockout, which is fine, but not for long.
-
-**What good looks like:** weeks on hand exceed lead time plus a 3 to 4 week buffer. Too much stock is also a flag. A SKU sitting at 40 weeks is cash parked on a shelf.
-
-**When to call us:** when a top SKU falls inside its lead time, or when one sits above 30 weeks. Either one changes your cash picture from Number 1, and we would rather model it with you before you place the order.
-
-## 3. Blended gross margin after fees and returns
-
-This is the number platform dashboards handle worst. Each marketplace reports sales its own way, and none of them includes your landed cost, freight, or the returns that come back a month later.
-
-The fix is gross margin by channel, then a blended number. Revenue minus cost of goods sold, marketplace and payment fees, fulfillment, and returns, divided by revenue. Here is what that looks like for a seller doing $2.4 million a year.
 
 | Channel | Annual revenue | Margin after fees and returns |
 |---------|----------------|-------------------------------|
@@ -69,66 +216,3 @@ The fix is gross margin by channel, then a blended number. Revenue minus cost of
 | eBay | $100,000 | 33% |
 | **Blended** | **$2,400,000** | **35.7%** |
 
-Seen this way, Shopify earns more than 13 points of margin over Amazon on the same products. That is the kind of detail that should shape where your next ad dollar goes.
-
-**What good looks like:** blended margin within 2 points of your target, and no channel drifting more than 3 points from its own trailing average. Amazon referral fees alone often run around 15 percent, so small shifts in return rates or fulfillment fees add up quickly.
-
-**When to call us:** if blended margin slips more than 3 points, or one channel goes under your break-even. Usually the cause is a fee change, a landed cost that was never updated, or a return spike. We can usually find it in one conversation if the books are reconciled by channel.
-
-## 4. Inventory value tied to the balance sheet
-
-Your inventory is probably the largest asset on your balance sheet. It is also the line most likely to be wrong when books are kept by cash basis or by platform reports.
-
-Once a week, compare the inventory value in your books against what your warehouse, 3PL, and FBA reports say you hold, priced at landed cost (product, freight, duties, and prep).
-
-Example: your ledger says $412,000 and the counts say $396,000. That is a 3.9 percent gap, or $16,000 of profit you may be overstating. It could be shrinkage, a unit-of-measure mistake, a missing freight invoice, or stock stuck in transit.
-
-**What good looks like:** the ledger within 1 to 2 percent of physical counts. This is also why lenders and investors ask for accrual-basis financials. A balance sheet with a trustworthy inventory line is a balance sheet people will fund. The [IRS Small Business and Self-Employed Tax Center](https://www.irs.gov/businesses/small-businesses-self-employed) is a useful reference if you are unsure how your accounting method affects inventory reporting.
-
-**When to call us:** when the gap exceeds 2 percent for two weeks in a row, or whenever a large shipment lands and you are unsure how it was recorded.
-
-## 5. Marketplace payouts still pending
-
-Money that has been earned but not yet deposited is easy to forget. It is also easy to lose track of when five platforms pay on five schedules. Amazon settles on a cycle of roughly two weeks and may hold a reserve. Shopify Payments usually deposits within a few business days. Etsy, eBay, and Walmart each have their own timing.
-
-List what each channel owes you and when it should arrive. If Amazon shows $31,000 unsettled and Walmart $9,000, you know about $40,000 is coming. Add it to the picture from Number 1.
-
-**What good looks like:** every channel paying inside its usual window, with reserves that are stable or shrinking.
-
-**When to call us:** if a payout is three or more days late, a reserve suddenly grows, or the deposit in your bank does not match the settlement report. Those mismatches are exactly what reconciliation is designed to catch, and they get harder to untangle the longer they sit.
-
-## How to run the check in ten minutes
-
-Pick the same time each Monday. Work from a single sheet, or better, a single reporting package, rather than five logins.
-
-1. Check bank balances and list the next 30 days of obligations (3 minutes).
-2. Review weeks on hand for your top SKUs (2 minutes).
-3. Read blended margin and the by-channel view (2 minutes).
-4. Compare inventory value to counts (1 minute).
-5. Add up pending payouts (2 minutes).
-
-If you are chasing numbers across platforms and the sheet takes an hour, that is a signal your books are not unified. The Monday Five only works when each number comes from one reconciled source. Otherwise you are comparing a Shopify export to an Amazon report to a bank feed, and none of them agree.
-
-This is why many sellers who outgrow a general-purpose bookkeeper come to us. As a CPA for Shopify and multi-channel sellers, our team has spent 30+ years in accounting and is one of the few full-service U.S. firms specializing in e-commerce accrual accounting, inventory, and multi-state sales tax nexus. We were named a Woodard Top 50 Accounting Firm and an Intuit Firm of the Future. Growth across states also creates sales tax questions, so we watch nexus alongside your margin.
-
-Every client gets a mutual success plan, and the Monday Five fits right into it. We agree on your target margin, your cash floor, and your reorder triggers up front. Then we reach out when a number crosses a line, instead of waiting for you to ask. Fixed monthly fees mean you can call when something looks off without wondering what the call will cost. If you are also trimming overhead, our post on [subscription creep](/resources/take-back-control-of-subscription-creep) is a good companion read.
-
-You can see how this works in practice on our [accounting services](/services/accounting) page.
-
-## Common Questions
-
-**What are the most useful ecommerce KPIs to track every week?**
-
-Start with cash against upcoming supplier payments, weeks of inventory per top SKU, blended gross margin after fees and returns, inventory value against the balance sheet, and pending marketplace payouts. These five show whether you can pay bills and restock, and they take about ten minutes to review.
-
-**How do I track ecommerce sales across Amazon, Shopify, Etsy, eBay, and Walmart?**
-
-Pull each channel's sales into one set of books on an accrual basis, then reconcile payouts to bank deposits. Platform dashboards report revenue, not profit. A unified ledger lets you see gross margin by channel after fees, returns, and landed cost, which no single marketplace report will show.
-
-**How many weeks of inventory should I keep on hand?**
-
-Hold more than your reorder lead time plus a 3 to 4 week buffer. If production and shipping take 10 weeks, aim for roughly 13 to 14 weeks on your top SKUs. Much beyond 30 weeks usually means cash is tied up in slow stock.
-
-## Talk through your Monday Five with a CPA
-
-If your numbers do not agree across channels, or the weekly check takes longer than ten minutes, it is time for a conversation. Reach out through our [contact page](/contact-us) and the Berg Advisors team in Newtown Square will walk through your channels, your inventory, and what a reconciled view could look like for your business.
