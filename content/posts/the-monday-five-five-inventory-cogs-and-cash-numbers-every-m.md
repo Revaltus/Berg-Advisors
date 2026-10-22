@@ -1,5 +1,5 @@
 ---
-title: "The Monday Five: Five Inventory, COGS and Cash Numbers Every Multi-Channel Seller Should Check Weekly"
+title: "E-Commerce Inventory, COGS and Cash Flow: The Financial Numbers Online Sellers Need to Track"
 slug: the-monday-five-five-inventory-cogs-and-cash-numbers-every-m
 date: 2026-10-22
 content_type: blog
