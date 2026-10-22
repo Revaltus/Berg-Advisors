@@ -4,17 +4,17 @@ slug: the-monday-five-five-inventory-cogs-and-cash-numbers-every-m
 date: 2026-10-22
 content_type: blog
 author: "Andrew C. Berg, CPA"
-excerpt: "A repeatable 10-minute Monday check replaces dashboard-hopping across Amazon, Shopify, Etsy, eBay, and Walmart. Five numbers, what good looks like, and when to call your CPA."
+excerpt: "Revenue alone doesn't show whether an online store is profitable. Learn how inventory, COGS, marketplace fees, and cash flow fit together, and which KPIs multi-channel sellers should track."
 image: ecommerce-seller-weekly-inventory-check.jpg
-image_alt: "E-commerce seller reviewing inventory shelves and a laptop during a weekly financial check"
-tags: ["E-commerce", "Inventory", "Cash Flow", "KPIs"]
-meta_title: "CPA for Shopify and Multi-Channel Sellers: Monday Five"
-meta_description: "A CPA for Shopify and multi-channel sellers shares the 10-minute weekly check: cash, weeks of inventory, margin by channel, inventory value, pending payouts."
+image_alt: "E-commerce seller reviewing inventory shelves and a laptop to check inventory and financial numbers"
+tags: ["E-commerce", "Inventory", "COGS", "Cash Flow", "KPIs"]
+meta_title: "CPA for Shopify & Multi-Channel Sellers: COGS Guide"
+meta_description: "A CPA for Shopify and multi-channel sellers explains inventory accounting, COGS, gross margin, marketplace fees, and the KPIs that show true profit."
 target_keyword: "CPA for Shopify and multi-channel sellers"
-secondary_keywords: ["ecommerce KPIs to track", "gross margin by channel", "inventory turnover ecommerce", "how to track ecommerce sales"]
+secondary_keywords: ["ecommerce inventory accounting", "COGS for online sellers", "ecommerce KPIs to track", "ecommerce cash flow management"]
 canonical_url: https://www.bergpartners.com/resources/the-monday-five-five-inventory-cogs-and-cash-numbers-every-m
 schema_markup: "FAQPage"
-answer_block: "Multi-channel sellers can check their financial health in ten minutes each Monday by reviewing five numbers: cash against upcoming supplier payments, weeks of inventory per top SKU, blended gross margin after fees and returns, inventory value against the balance sheet, and pending marketplace payouts. Each number works best when it comes from one reconciled set of books rather than separate platform reports."
+answer_block: "Online sellers need more than revenue to understand profitability. Accurate inventory accounting and COGS tracking show true gross profit and margin, while marketplace fees, shipping, returns, and advertising explain net profit. Reviewing inventory, COGS, and cash flow together, from one reconciled set of books across every sales channel, helps sellers make better purchasing and growth decisions."
 ---
 
 An e-commerce business can generate impressive sales. But it may still struggle to produce steady profit. Just revenue doesn’t show the full picture.
@@ -198,21 +198,6 @@ Good KPIs are gross margin & net profit margin. These also include inventory tur
 **When does an online seller need professional e-commerce bookkeeping?**
 
 Professional e-commerce bookkeeping becomes valuable. This is when en a seller operates multiple sales channels or manages substantial inventory. This is important if complex marketplace payouts or struggles to compute product profitability.
-| # | Number | What good looks like | Call us when |
-|---|--------|----------------------|--------------|
-| 1 | Cash on hand vs. upcoming supplier payments | Cash covers the next 30 days of supplier bills, ads, payroll, and sales tax, with a cushion | Cash drops below 30 days of coverage |
-| 2 | Weeks of inventory per top SKU | Weeks on hand exceed your reorder lead time plus 3 to 4 weeks | A top SKU falls inside its lead time |
-| 3 | Blended gross margin after fees and returns | Within 2 points of your target, by channel | Blended margin slips more than 3 points |
-| 4 | Inventory value tied to the balance sheet | Ledger within 1 to 2 percent of physical counts | Gap exceeds 2 percent |
-| 5 | Marketplace payouts still pending | Every channel paid inside its normal window | Any payout is 3+ days late or shrinking |
 
 
-| Channel | Annual revenue | Margin after fees and returns |
-|---------|----------------|-------------------------------|
-| Amazon | $1,200,000 | 31% |
-| Shopify | $700,000 | 44% |
-| Walmart | $250,000 | 28% |
-| Etsy | $150,000 | 49% |
-| eBay | $100,000 | 33% |
-| **Blended** | **$2,400,000** | **35.7%** |
 
