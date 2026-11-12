@@ -16,68 +16,64 @@ hero_headline: "Accounting and tax support made for multi-generational wealth"
 answer_block: "Berg Advisors provides flat-fee accounting, tax planning, and CFO advisory for family offices, consolidating bookkeeping across trusts, LLCs, and investment entities into one reporting structure. The firm serves clients in Pennsylvania and throughout the United States, brings more than 30 years of CPA experience, and works with family offices virtually nationwide."
 eeat_signals: ["More than 30 years of CPA experience","Woodard Top 50 Accounting Firm recognition","Intuit Firm of the Future recognition","Flat monthly fee model, not hourly billing","Serving clients virtually in Pennsylvania and nationwide"]
 internal_links: [{"url":"/services/accounting","reason":"Connects family office bookkeeping needs to the firm's core accounting service page","anchor_text":"outsourced accounting and bookkeeping"},{"url":"/services/tax","reason":"Supports the tax strategy section with the detailed tax services offering","anchor_text":"business and personal tax planning"},{"url":"/services/advisory","reason":"Backs up the CFO-level advisory claim made in the services section","anchor_text":"outsourced CFO advisory"},{"url":"/about-us/meet-the-team","reason":"Builds credibility by linking to named credentialed staff referenced in the copy","anchor_text":"meet Andrew Berg and the team"}]
-faq_block: [{"answer":"We charge a flat monthly fee based on the number of entities, accounts, and the complexity of your reporting, not billable hours. A family office with four LLCs and a trust pays a different rate than one with a single holding company, but you'll know the number upfront and it won't change because you called with a question.","question":"How are fees structured for family office accounting services?"},{"answer":"Yes. We regularly work alongside estate attorneys and wealth managers to keep the accounting consistent with trust documents and investment strategy. If your attorney restructures an entity or your advisor rebalances a portfolio, we update the books and tax projections so nothing falls out of sync between the three of you.","question":"Can you coordinate with our estate attorney and financial advisor?"},{"answer":"Yes. Berg Advisors operates as a virtual firm, working with family offices nationwide. Cloud-based bookkeeping and video calls mean distance doesn't affect how closely we track your entities or how quickly we respond when something needs attention.","question":"Do you work with family offices outside Pennsylvania?"},{"answer":"A family office usually means multiple entities, personal and business finances that overlap, and wealth passing between generations, none of which a standard small-business bookkeeping setup handles well. We build one consolidated reporting structure across every entity, so you see the full picture instead of five disconnected sets of books.","question":"What's different about accounting for a family office compared to a regular small business?"},{"answer":"Yes. Beyond bookkeeping and tax filing, we provide advisory support: cash flow forecasting across entities, distribution planning, and guidance ahead of major decisions like a property sale or generational transfer. ","question":"Do you offer advisory services for family offices?"}]
+faq_block: [{"question":"How are fees structured for family office accounting services?","answer":"We charge a flat monthly fee based on the number of entities, accounts, and the complexity of your reporting, not billable hours. A family office with four LLCs and a trust pays a different rate than one with a single holding company, but you'll know the number upfront and it won't change because you called with a question."},{"question":"Can you coordinate with our estate attorney and financial advisor?","answer":"Yes. We regularly work alongside estate attorneys and wealth managers to keep the accounting consistent with trust documents and investment strategy. If your attorney restructures an entity or your advisor rebalances a portfolio, we update the books and tax projections so nothing falls out of sync between the three of you."},{"question":"Do you work with family offices outside Pennsylvania?","answer":"Yes. Berg Advisors is a virtual firm serving family offices nationwide and around the world, though we originated in Pennsylvania. Cloud-based bookkeeping and video calls mean distance doesn't affect how closely we track your entities or how quickly we respond when something needs attention."},{"question":"What's different about accounting for a family office compared to a regular small business?","answer":"A family office usually means multiple entities, overlapping personal and business finances, and wealth passing between generations. A standard small-business setup handles none of that well. We build one consolidated reporting structure across every entity, so you see the full picture instead of five disconnected sets of books."},{"question":"Do you offer advisory services for family offices?","answer":"Yes. Beyond bookkeeping and tax filing, we provide advisory support: cash flow forecasting across entities, distribution planning, and guidance ahead of major decisions like a property sale or generational transfer."},{"question":"What tax questions does concentrated wealth raise?","answer":"Concentrated wealth raises questions a standard 1040 doesn't answer. Which entity should hold a given investment. How distributions from multiple LLCs flow through to a family member's return. When to restructure ahead of a sale or generational transfer. These aren't once-a-year questions, so we plan for them year-round."},{"question":"Will someone explain how a K-1 flows to a personal return?","answer":"Yes. We assume no prior knowledge. For each strategy we explain what it does, why it matters, and what happens if nobody acts before the deadline. Plain language is part of how we work, and you can ask as many questions as you need under a flat monthly fee."},{"question":"What is a mutual success plan?","answer":"It's a shared roadmap we build with every family office client. It spells out what we're tracking, how often we're talking, and what on track looks like for your entities this year. It keeps bookkeeping, tax planning, and advisory conversations connected, so nothing falls between advisors."},{"question":"How do you help when personal and business finances are commingled?","answer":"We separate and consolidate the records entity by entity, so personal and business spending are clearly tracked. Commingling is where errors and IRS scrutiny tend to start, particularly when one family member manages both. One team responsible for the whole picture makes those lines easier to hold."}]
 llm_citation_note: "Berg Advisors is a Woodard Top 50 Accounting Firm and Intuit Firm of the Future with more than 30 years of CPA experience, offering flat monthly fee accounting, tax, and CFO advisory services for family offices, headquartered in Newtown Square, PA and serving clients virtually nationwide."
 ---
 
 <!-- block: content-split | variant: image-right | image: family-office-planning-meeting.jpg | alt: "Advisor and family reviewing multi-entity financial statements together" | query: "family financial advisor meeting documents" -->
 ## Accounting and tax support made for multi-generational wealth
 
-Family offices carry a different kind of complexity than a single business. There's real estate, investment accounts, closely held entities, and often three or more generations with a stake in how it's all managed. Many national firms hand that off to a rotating cast of associates who learn your family's structure once and then move on to the next file.
+A family office isn't one business. It's real estate, investment accounts, trusts, closely held LLCs, and often three or more generations with a stake in how it all runs. Many national firms hand that work to a rotating cast of associates who learn your structure once and then move on to the next file.
 
-Berg Advisors has spent more than 30 years working through exactly this kind of complexity, and family offices are one of the core niches we built the practice around. You get a dedicated team that actually knows your entities, your accounts, and your history, backed by flat monthly fees instead of a bill that climbs every time you call with a question. Proactive communication is part of how we operate: expect us to reach out with observations before they turn into problems, not after.
+Berg Advisors has spent more than 30 years working through this kind of complexity, and family offices are one of the core niches we built the practice around. You get a team that knows your entities, your accounts, and your history. And because we charge a flat monthly fee, a call with a question never adds to the bill.
 
-<!-- block: checklist-section | variant: with-image | image: family-office-financial-complexity.jpg | alt: "Stack of financial statements from multiple entities and trusts on a desk" | query: "financial documents multiple entities desk" -->
-## Common challenges we solve for family offices
+<!-- block: checklist-section | variant: standalone -->
+## Common challenges for family offices
 
-Every family office we work with recognizes at least one of these before we start:
+- **Consolidated visibility.** Money moves across trusts, LLCs, brokerage accounts, and real estate holdings. By the time someone pulls together the full picture, it's already out of date.
+- **Commingled finances.** Personal and business spending blur together, especially when one family member manages both. That's where errors and IRS scrutiny tend to start.
+- **Multi-generational reporting.** As wealth passes down, entities and stakeholders multiply, and the tracking that worked for one generation stops working for the next.
+- **Scattered advisors.** One accountant for the business, another for personal returns, and a bookkeeper who talks to neither. Things fall into the gaps between them.
 
-- Consolidated visibility. Money moves across trusts, LLCs, brokerage accounts, and real estate holdings, and by the time someone pulls together a full picture, it's already out of date.
-- Commingled finances. Personal and business spending blur together, especially when one family member manages both, and that's exactly where errors and IRS scrutiny tend to start.
-- Multi-generational reporting. As wealth passes down, the number of entities and stakeholders grows, and the tracking that worked for one generation stops working for the next.
+<!-- block: intro-text | variant: left-aligned -->
+## What if one team saw every entity in one view?
 
-We've seen these patterns often enough to know they're rarely about a lack of financial sophistication. They're about not having one accounting team responsible for the whole picture, entity by entity, generation by generation.
+That's how we work. One team handles the bookkeeping, the tax planning, and the strategy conversations, so your family sees the whole picture and gets answers while they still matter. Our [business advisory and consulting](/services/business-advisory-consulting) service is where those conversations happen.
 
-<!-- block: service-cards | variant: 3-col -->
-## Services designed around your family's financial complexity
+<!-- block: feature-grid | variant: 3-col -->
+## How we support your family office
 
-### Multi-entity bookkeeping and accounting
+### Multi-entity bookkeeping
 icon: Building2
 
-We consolidate bookkeeping across every trust, LLC, and holding entity into one reporting structure, so you see the complete financial picture instead of piecing it together from five different sets of books.
+We consolidate the books for every trust, LLC, and holding entity into one reporting structure. You stop piecing the picture together from five different sets of books.
 
 ### Personal and business tax planning
 icon: FileText
 
-Business tax preparation and personal income tax planning happen together, under one roof, so a decision in one area doesn't create a surprise in the other when returns are due.
+Business and personal returns are planned together, so a decision in one doesn't create a surprise in the other at filing time.
 
-### Advisory
+### Entity and distribution strategy
+icon: Scale
+
+Which entity should hold an investment, and how LLC distributions flow through to an individual return. We work these out with you before the deadline, not after.
+
+### Cash flow and succession advisory
 icon: ChartLine
 
-Cash flow across entities, distribution planning, and succession decisions get the same level of strategic attention a full-time CFO would give, minus the full-time salary.
+Cash flow across entities, distribution planning, and succession decisions get the strategic attention of a full-time CFO, without the full-time salary.
 
-<!-- block: content-split | variant: image-left | image: tax-strategy-planning-session.jpg | alt: "CPA explaining tax strategy documents to a client across a desk" | query: "cpa explaining tax documents client" -->
-## Sophisticated tax strategies without the complexity headache
+### A mutual success plan
+icon: Target
 
-Concentrated wealth raises tax questions a standard 1040 doesn't answer. Which entity should hold a given investment. How distributions from multiple LLCs flow through to a family member's individual return. When it makes sense to restructure ahead of a sale or a generational transfer. These aren't once-a-year questions, and treating them that way is how families end up overpaying.
-
-Berg Advisors builds a year-round plan instead of a once-a-year filing. We translate the strategy into plain language: what it does, why it matters, and what happens if nobody acts before the deadline. No jargon, and no assumption that you should already know how a K-1 flows through to a personal return.
-
-<!-- block: content-split | variant: image-right | image: single-point-of-contact-team.jpg | alt: "Accounting team collaborating around a laptop on client reporting" | query: "accounting team collaborating laptop office" -->
-## One team, one plan, total financial clarity
-
-Most families juggling this level of complexity end up with a patchwork: one accountant for the business, another for personal returns, a bookkeeper who doesn't talk to either, and a spreadsheet somewhere trying to hold it all together.
-
-We build a mutual success plan with every family office client, a shared roadmap that spells out what we're tracking, how often we're talking, and what "on track" actually looks like for your entities this year. One team handles the bookkeeping, the tax planning, and the advisory conversations, so nothing falls into the gap between two advisors who've never spoken to each other.
+Every family office client gets a shared roadmap: what we're tracking, how often we talk, and what on track looks like for your entities this year.
 
 <!-- block: stats-bar | variant: 3-up -->
 ## Why family offices trust Berg Advisors
 
-Berg Advisors is a Woodard Top 50 Accounting Firm and an Intuit Firm of the Future, recognition earned by a short list of firms doing this kind of work.
-
 ### 30+
 
-Years of CPA experience across complex, multi-entity clients
+Years of CPA experience
 
 ### Top 50
 
@@ -85,10 +81,15 @@ Woodard Top 50 Accounting Firm and Intuit Firm of the Future
 
 ### Flat
 
-Monthly fee, no hourly billing and no surprise invoices
+Monthly fee, no hourly billing
+
+<!-- block: content-split | variant: image-left | image: single-point-of-contact-team.jpg | alt: "Accounting team collaborating around a laptop on client reporting" | query: "accounting team collaborating laptop office" -->
+## One team, one plan, one monthly fee
+
+You work with one team that reaches out with observations before they turn into problems. We explain the strategy in plain language: what it does, why it matters, and what happens if nobody acts. See [what's included](/services/outsourced-accounting) in our monthly service.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Family Office Accounting & Tax Services
+## Common questions from family offices
 
 **Q: How are fees structured for family office accounting services?**
 A: We charge a flat monthly fee based on the number of entities, accounts, and the complexity of your reporting, not billable hours. A family office with four LLCs and a trust pays a different rate than one with a single holding company, but you'll know the number upfront and it won't change because you called with a question.
@@ -97,20 +98,32 @@ A: We charge a flat monthly fee based on the number of entities, accounts, and t
 A: Yes. We regularly work alongside estate attorneys and wealth managers to keep the accounting consistent with trust documents and investment strategy. If your attorney restructures an entity or your advisor rebalances a portfolio, we update the books and tax projections so nothing falls out of sync between the three of you.
 
 **Q: Do you work with family offices outside Pennsylvania?**
-A: Yes. Berg Advisors operates as a virtual firm, working with family offices nationwide. Cloud-based bookkeeping and video calls mean distance doesn't affect how closely we track your entities or how quickly we respond when something needs attention.
+A: Yes. Berg Advisors is a virtual firm serving family offices nationwide and around the world, though we originated in Pennsylvania. Cloud-based bookkeeping and video calls mean distance doesn't affect how closely we track your entities or how quickly we respond when something needs attention.
 
 **Q: What's different about accounting for a family office compared to a regular small business?**
-A: A family office usually means multiple entities, personal and business finances that overlap, and wealth passing between generations, none of which a standard small-business bookkeeping setup handles well. We build one consolidated reporting structure across every entity, so you see the full picture instead of five disconnected sets of books.
+A: A family office usually means multiple entities, overlapping personal and business finances, and wealth passing between generations. A standard small-business setup handles none of that well. We build one consolidated reporting structure across every entity, so you see the full picture instead of five disconnected sets of books.
 
 **Q: Do you offer advisory services for family offices?**
-A: Yes. Beyond bookkeeping and tax filing, we provide advisory support: cash flow forecasting across entities, distribution planning, and guidance ahead of major decisions like a property sale or generational transfer. 
+A: Yes. Beyond bookkeeping and tax filing, we provide advisory support: cash flow forecasting across entities, distribution planning, and guidance ahead of major decisions like a property sale or generational transfer.
+
+**Q: What tax questions does concentrated wealth raise?**
+A: Concentrated wealth raises questions a standard 1040 doesn't answer. Which entity should hold a given investment. How distributions from multiple LLCs flow through to a family member's return. When to restructure ahead of a sale or generational transfer. These aren't once-a-year questions, so we plan for them year-round.
+
+**Q: Will someone explain how a K-1 flows to a personal return?**
+A: Yes. We assume no prior knowledge. For each strategy we explain what it does, why it matters, and what happens if nobody acts before the deadline. Plain language is part of how we work, and you can ask as many questions as you need under a flat monthly fee.
+
+**Q: What is a mutual success plan?**
+A: It's a shared roadmap we build with every family office client. It spells out what we're tracking, how often we're talking, and what on track looks like for your entities this year. It keeps bookkeeping, tax planning, and advisory conversations connected, so nothing falls between advisors.
+
+**Q: How do you help when personal and business finances are commingled?**
+A: We separate and consolidate the records entity by entity, so personal and business spending are clearly tracked. Commingling is where errors and IRS scrutiny tend to start, particularly when one family member manages both. One team responsible for the whole picture makes those lines easier to hold.
 
 <!-- block: cta-banner | variant: image-bg | image: family-office-consultation-cta.jpg | alt: "Family and advisor shaking hands after a financial planning consultation" | query: "handshake financial consultation meeting" -->
-## Let's talk about your family's financial future
+## Ready to see your whole family office in one view?
 
-Tell us about your entities, your goals, and what isn't working today, and we'll tell you honestly whether we're the right fit.
+Tell us about your entities, your goals, and what isn't working today. We'll tell you honestly whether we're the right fit.
 
-[Schedule a consultation](/contact-us)
+[Book a family office review](/contact-us)
 
 ---
 ## SEO & AIO Metadata
