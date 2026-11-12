@@ -68,11 +68,6 @@ icon: FileText
 
 Business returns, personal returns, and year-end 1099s, planned year-round with inventory and multi-state exposure in mind. [Explore tax services](/services/tax) or see how [bookkeeping and monthly close](/services/accounting) work.
 
-<!-- block: intro-text | variant: centered -->
-## Recognized for the work we do
-
-Berg Advisors has more than 30 years of CPA experience, a Woodard Top 50 Accounting Firm ranking, and an Intuit Firm of the Future designation. We are one of the few full-service U.S. firms specializing in e-commerce accrual accounting, inventory, and multi-state sales tax nexus.
-
 <!-- block: content-split | variant: image-left | image: online-seller-consultation-call.jpg | alt: "E-commerce business owner on a video call consultation" | query: "business owner video call consultation" -->
 ## One flat monthly fee, no billable-hour surprises
 
