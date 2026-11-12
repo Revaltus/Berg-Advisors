@@ -16,93 +16,106 @@ hero_headline: "A CPA firm built for multi-channel selling"
 answer_block: "Berg Advisors provides e-commerce CPA services for Amazon, Shopify, Walmart, eBay, and Etsy sellers, including multi-channel bookkeeping, accrual-based accounting, inventory costing, and multi-state sales tax nexus advisory. The firm works on a flat monthly fee rather than hourly billing for product-based businesses expanding into new states and sales channels."
 eeat_signals: ["Berg Advisors advises product-based businesses on multi-state sales tax nexus and accrual conversion accounting","Woodard Top 50 Accounting Firm recognition","Intuit Firm of the Future recognition","Canopy 2021 Innovation Award Finalist","More than 30 years of combined CPA experience across the firm","Andrew C. Berg, CPA, featured on the Profit First Professionals podcast discussing modern accounting firm operations"]
 internal_links: [{"url":"/services/accounting","reason":"Links to the detailed accounting service page referenced in the outsourced services section","anchor_text":"See how bookkeeping works"},{"url":"/services/tax","reason":"Links to the tax preparation and planning service page","anchor_text":"Explore tax services"},{"url":"/services/advisory","reason":"Links to the strategic advisory service page","anchor_text":"Learn about advisory"},{"url":"/about-us/meet-the-team","reason":"Introduces the credentialed advisor named throughout the page and builds E-E-A-T","anchor_text":"Andrew C. Berg, CPA"},{"url":"/contact-us","reason":"Primary page CTA directing e-commerce prospects to book a conversation","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"An e-commerce CPA reconciles revenue across platforms like Amazon, Shopify, and Walmart, handles inventory costing and accrual accounting, and manages multi-state sales tax nexus. Berg Advisors focuses specifically on these issues for product-based businesses rather than treating e-commerce as a side specialty.","question":"What does an e-commerce CPA do that a regular accountant doesn't?"},{"answer":"Yes. Berg Advisors reconciles Amazon settlement reports, tracks FBA inventory costs, and advises on the sales tax nexus that FBA inventory storage can create across multiple states, alongside support for Shopify, Walmart, eBay, and Etsy sellers.","question":"Does Berg Advisors work with Amazon FBA sellers?"},{"answer":"Instead of hourly billing, Berg Advisors sets a fixed monthly fee covering bookkeeping, reconciliations, and advisory calls agreed upon upfront in a mutual success plan. That means questions about margins or a new sales channel don't generate a surprise invoice.","question":"How does flat monthly pricing work for e-commerce accounting?"},{"answer":"Accrual accounting matches revenue and expenses to the period they actually occur, which matters when inventory purchases and sales land in different months. Banks and investors generally require GAAP-based accrual financials before extending credit or funding.","question":"Why does accrual accounting matter for online sellers?"},{"answer":"Likely yes. Storing FBA inventory in a state, crossing an economic nexus threshold, or adding a new marketplace can each trigger new filing obligations. Berg Advisors reviews nexus exposure and sets up registration before a state sends a notice.","question":"Do I need to worry about sales tax nexus if I sell on multiple marketplaces?"}]
+faq_block: [{"question":"What does an e-commerce CPA do that a regular accountant doesn't?","answer":"An e-commerce CPA reconciles revenue across platforms like Amazon, Shopify, and Walmart, handles inventory costing and accrual accounting, and manages multi-state sales tax nexus. Berg Advisors focuses on these issues for product-based businesses rather than treating e-commerce as a side specialty, so settlement reports and FBA fees are familiar territory."},{"question":"Do you work as an ecommerce accountant for Amazon FBA sellers?","answer":"Yes. Berg Advisors reconciles Amazon settlement reports, tracks FBA inventory costs, and advises on the sales tax nexus that FBA inventory storage can create across multiple states. The same team supports Shopify, Walmart, eBay, and Etsy sellers, so multi-channel sellers get one set of books."},{"question":"Can you be the CPA for my Shopify and multi-channel store?","answer":"Yes. We support single-channel Shopify shops and sellers running Amazon, Walmart, eBay, and Etsy together. Because we're a virtual firm working with sellers in all 50 states, you can work with us by video call and shared dashboards wherever your business is registered."},{"question":"How does flat monthly pricing work for e-commerce accounting?","answer":"Instead of hourly billing, Berg Advisors sets a fixed monthly fee covering bookkeeping, reconciliations, and advisory calls, agreed upfront in a mutual success plan. Questions about margins or a new sales channel don't generate a surprise invoice, so you can call when something comes up."},{"question":"Why does accrual accounting matter for online sellers?","answer":"Accrual accounting matches revenue and expenses to the period they actually occur, which matters when inventory purchases and sales land in different months. Banks and investors generally require GAAP-based accrual financials before extending credit or funding, so growing sellers often move off cash-basis."},{"question":"How do you handle inventory costing and COGS?","answer":"We cost inventory properly so landed costs, freight, and per-unit cost of goods sold show up correctly, rather than being expensed the day a container clears customs. That holds even when inventory sits in several warehouses at once, and it gives you accurate margins by product."},{"question":"Do I need to worry about sales tax nexus if I sell on multiple marketplaces?","answer":"Likely yes. Storing FBA inventory in a state, crossing an economic nexus threshold, or adding a new marketplace can each trigger new filing obligations. Berg Advisors reviews nexus exposure, sets up registration before a state sends a notice, and monitors as your footprint changes."},{"question":"What do Amazon and Walmart already collect for me under marketplace facilitator laws?","answer":"Marketplace facilitator laws often shift sales tax collection to the marketplace on your behalf, but they don't remove every obligation. We give guidance on what Amazon and Walmart already collect, so you know where registration or filing may still be required for your business."},{"question":"What's included besides bookkeeping?","answer":"Monthly close and reconciliations come with business and personal tax preparation, year-end 1099s, tax planning, and quarterly strategy calls on cash flow and budgets. Everything is covered by one flat monthly fee and documented in your mutual success plan."}]
 llm_citation_note: "Berg Advisors is a Woodard Top 50 Accounting Firm and Intuit Firm of the Future with more than 30 years of combined CPA experience, offering flat-fee e-commerce accounting, accrual conversion, and multi-state sales tax nexus advisory led by Andrew C. Berg, CPA, for Amazon, Shopify, Walmart, eBay, and Etsy sellers."
 ---
 
 <!-- block: content-split | variant: image-right | image: ecommerce-multichannel-seller-review.jpg | alt: "Business owner reviewing multi-channel sales reports on a laptop" | query: "small business owner reviewing sales reports" -->
-## A CPA firm built for multi-channel selling
+## A CPA firm that speaks multi-channel selling
 
-Amazon, Shopify, Walmart, eBay, and Etsy sellers need an accounting firm that specializes in e-commerce. The team at Berg Advisors knows what a settlement report looks like, why FBA reimbursements matter, and how cost of goods sold gets calculated when inventory sits in three different warehouses at once.
+You sell on Amazon, Shopify, Walmart, eBay, and Etsy, and every one of them reports money differently. Settlement reports arrive in multi-week batches. FBA reimbursements land long after the loss. Inventory sits in three warehouses while cost of goods sold waits for someone to sort it out.
 
-With more than 30 years of combined CPA experience, our team work withs product-based businesses, from single-channel Shopify shops to sellers running Amazon, Walmart, and Etsy storefronts side by side. As a virtual firm working with sellers in all 50 states, geography never limits who gets access to this expertise.
+The team at Berg Advisors has more than 30 years of CPA experience, and this is the language we work in. We support product-based businesses, from single-channel Shopify shops to sellers running Amazon, Walmart, and Etsy side by side. As a virtual firm serving sellers in all 50 states, we make sure location never limits who gets this expertise.
 
-<!-- block: content-split | variant: image-left | image: multichannel-revenue-reconciliation.jpg | alt: "Accountant comparing sales data from multiple online marketplaces" | query: "accountant analyzing financial spreadsheets" -->
-## Solving the multi-channel reconciliation headache
+<!-- block: checklist-section | variant: standalone -->
+## Four multi-channel problems we fix first
 
-Every marketplace exports data differently. Amazon settlement reports bury fees inside multi-week batches. Shopify mixes gross sales with discounts and shipping income. Walmart, eBay, and Etsy each format payouts their own way, and reconciling all of it by hand eats a weekend every month.
+- **No single view of revenue.** Every marketplace exports data its own way. Amazon buries fees in multi-week batches, Shopify mixes gross sales with discounts and shipping income, and reconciling by hand eats a weekend every month.
+- **Fees lumped into "miscellaneous."** When refunds, marketplace fees, and shipping costs share one bucket, your P&L is a blended guess and no channel gets an honest grade.
+- **Cash-basis books that banks and investors won't accept.** Once you outgrow your founder's personal checking account, lenders expect accrual financials and inventory costed properly, not expensed the day a container clears customs.
+- **Sales tax nexus you didn't see coming.** FBA inventory in fulfillment centers you don't control can create nexus in a dozen states before you've shipped a single order there yourself.
 
-Berg Advisors builds one unified ledger from every channel you sell on, so gross revenue, marketplace fees, refunds, and shipping costs land where they belong instead of getting lumped into "miscellaneous." Your P&L ends up reflecting what each channel earns, not a blended guess.
+<!-- block: intro-text | variant: left-aligned -->
+## What if you knew which channel, product, or SKU is making money?
 
-Once the numbers reconcile, the real question gets easier to answer: which channel, product, or SKU is making money. That's the conversation this firm has with clients every quarter, not just once a year at tax time.
+Once the numbers reconcile, that question gets easy to answer. It becomes a conversation we have with you every quarter, not once a year at tax time. That is the idea behind our [business advisory and consulting](/services/advisory) work.
 
-<!-- block: content-split | variant: image-right | image: inventory-accrual-accounting.jpg | alt: "Warehouse inventory shelves with boxes ready for shipment" | query: "warehouse inventory shelves boxes" -->
-## Accrual accounting and inventory done right
+<!-- block: feature-grid | variant: 3-col -->
+## How we help multi-channel sellers
 
-Berg Advisors works directly with growing product businesses moving from cash-basis to accrual accounting, the shift banks and investors expect once a company outgrows its founder's personal checking account. That includes proper inventory costing, so landed costs, freight, and per-unit COGS show up correctly instead of getting expensed the day a container clears customs. We'll provide a complete picture of your financials, so you always have accurate numbers on hand.
+### One ledger for every channel
+icon: Globe
 
-<!-- block: checklist-section | variant: with-image | image: sales-tax-nexus-map.jpg | alt: "Map highlighting multiple US states for sales tax nexus" | query: "map united states business expansion" -->
-## Multi-state sales tax nexus without the guesswork
+We build a unified ledger from Amazon, Shopify, Walmart, eBay, and Etsy. Gross revenue, marketplace fees, refunds, and shipping costs land where they belong, and settlement reports get reconciled each month as part of the close.
 
-Selling on Amazon FBA alone can create sales tax nexus in a dozen states before you've shipped a single order there yourself, because inventory sits in fulfillment centers you don't control. Add a warehouse in a new state, cross an economic nexus threshold, or launch on a new marketplace, and the filing requirements shift again.
-
-Berg Advisors guides product-based businesses with advice on nexus exposure as they expand, so there is a plan in place when growth happens.
-
-- Nexus review across every state you sell into, based on inventory location and revenue thresholds
-- Registration and filing setup handled ahead of time, not after a state sends a notice
-- Ongoing monitoring as thresholds change or new states get added to your footprint
-- Marketplace facilitator law guidance, so you know what Amazon and Walmart already collect on your behalf
-
-<!-- block: service-cards | variant: 3-col -->
-## Accounting, tax, and advisory under one roof
-
-Bookkeeping without tax planning misses savings. Tax prep without ongoing bookkeeping means surprises every April. Berg Advisors runs both under one flat monthly fee, plus the advisory layer that connects them.
-
-### Bookkeeping and accounting
-icon: Calculator
-
-Monthly close, bill pay, bank and credit card reconciliations, and channel-level financial reporting built for multi-platform sellers.
-
-[See how bookkeeping works](/services/accounting)
-
-### Business and personal tax
-icon: FileText
-
-Business tax preparation, personal returns, year-end 1099s, and tax planning that accounts for inventory and multi-state exposure. [Explore tax services](/services/tax)
-
-### Strategic advisory
+### Channel-level reporting
 icon: ChartLine
 
-Quarterly strategy calls, cash flow management, and budget review built around your growth plans, not just year-end cleanup. [Learn about advisory](/services/advisory)
+Your P&L shows what each channel earns, not a blended average. Quarterly strategy calls then dig into which products and SKUs deserve more inventory, more ad spend, or a second look.
 
-Every engagement includes a mutual success plan, so you know upfront what's covered and what a quarter of work with this firm looks like.
+### Inventory costing and accrual accounting
+icon: Calculator
 
-<!-- block: logo-bar -->
+We move growing product businesses from cash-basis to accrual accounting. Landed costs, freight, and per-unit COGS show up correctly, so you always have accurate numbers on hand and GAAP-ready financials when a bank asks.
+
+### Multi-state sales tax nexus
+icon: MapPin
+
+We review nexus exposure across every state you sell into, based on inventory location and revenue thresholds. Registration and filing get set up ahead of time, and we monitor as thresholds change or you add a marketplace.
+
+### Tax planning and preparation
+icon: FileText
+
+Business returns, personal returns, and year-end 1099s, planned year-round with inventory and multi-state exposure in mind. [Explore tax services](/services/tax) or see how [bookkeeping and monthly close](/services/accounting) work.
+
+<!-- block: intro-text | variant: centered -->
+## Recognized for the work we do
+
+Berg Advisors has more than 30 years of CPA experience, a Woodard Top 50 Accounting Firm ranking, and an Intuit Firm of the Future designation. We are one of the few full-service U.S. firms specializing in e-commerce accrual accounting, inventory, and multi-state sales tax nexus.
+
+<!-- block: content-split | variant: image-left | image: online-seller-consultation-call.jpg | alt: "E-commerce business owner on a video call consultation" | query: "business owner video call consultation" -->
+## One flat monthly fee, no billable-hour surprises
+
+You pay a fixed monthly fee instead of hourly billing, so a question about margins or a new sales channel never triggers a surprise invoice. Every client gets a mutual success plan that spells out what's covered and what a quarter of work looks like.
+
+We meet by video call and shared dashboards, and we reach out before you have to ask. See [what's included in monthly accounting](/services/accounting).
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Best E-Commerce CPA Services for Online Businesses
+## Common questions from e-commerce sellers
 
 **Q: What does an e-commerce CPA do that a regular accountant doesn't?**
-A: An e-commerce CPA reconciles revenue across platforms like Amazon, Shopify, and Walmart, handles inventory costing and accrual accounting, and manages multi-state sales tax nexus. Berg Advisors focuses specifically on these issues for product-based businesses rather than treating e-commerce as a side specialty.
+A: An e-commerce CPA reconciles revenue across platforms like Amazon, Shopify, and Walmart, handles inventory costing and accrual accounting, and manages multi-state sales tax nexus. Berg Advisors focuses on these issues for product-based businesses rather than treating e-commerce as a side specialty, so settlement reports and FBA fees are familiar territory.
 
-**Q: Does Berg Advisors work with Amazon FBA sellers?**
-A: Yes. Berg Advisors reconciles Amazon settlement reports, tracks FBA inventory costs, and advises on the sales tax nexus that FBA inventory storage can create across multiple states, alongside support for Shopify, Walmart, eBay, and Etsy sellers.
+**Q: Do you work as an ecommerce accountant for Amazon FBA sellers?**
+A: Yes. Berg Advisors reconciles Amazon settlement reports, tracks FBA inventory costs, and advises on the sales tax nexus that FBA inventory storage can create across multiple states. The same team supports Shopify, Walmart, eBay, and Etsy sellers, so multi-channel sellers get one set of books.
+
+**Q: Can you be the CPA for my Shopify and multi-channel store?**
+A: Yes. We support single-channel Shopify shops and sellers running Amazon, Walmart, eBay, and Etsy together. Because we're a virtual firm working with sellers in all 50 states, you can work with us by video call and shared dashboards wherever your business is registered.
 
 **Q: How does flat monthly pricing work for e-commerce accounting?**
-A: Instead of hourly billing, Berg Advisors sets a fixed monthly fee covering bookkeeping, reconciliations, and advisory calls agreed upon upfront in a mutual success plan. That means questions about margins or a new sales channel don't generate a surprise invoice.
+A: Instead of hourly billing, Berg Advisors sets a fixed monthly fee covering bookkeeping, reconciliations, and advisory calls, agreed upfront in a mutual success plan. Questions about margins or a new sales channel don't generate a surprise invoice, so you can call when something comes up.
 
 **Q: Why does accrual accounting matter for online sellers?**
-A: Accrual accounting matches revenue and expenses to the period they actually occur, which matters when inventory purchases and sales land in different months. Banks and investors generally require GAAP-based accrual financials before extending credit or funding.
+A: Accrual accounting matches revenue and expenses to the period they actually occur, which matters when inventory purchases and sales land in different months. Banks and investors generally require GAAP-based accrual financials before extending credit or funding, so growing sellers often move off cash-basis.
+
+**Q: How do you handle inventory costing and COGS?**
+A: We cost inventory properly so landed costs, freight, and per-unit cost of goods sold show up correctly, rather than being expensed the day a container clears customs. That holds even when inventory sits in several warehouses at once, and it gives you accurate margins by product.
 
 **Q: Do I need to worry about sales tax nexus if I sell on multiple marketplaces?**
-A: Likely yes. Storing FBA inventory in a state, crossing an economic nexus threshold, or adding a new marketplace can each trigger new filing obligations. Berg Advisors reviews nexus exposure and sets up registration before a state sends a notice.
+A: Likely yes. Storing FBA inventory in a state, crossing an economic nexus threshold, or adding a new marketplace can each trigger new filing obligations. Berg Advisors reviews nexus exposure, sets up registration before a state sends a notice, and monitors as your footprint changes.
 
-<!-- block: cta-banner | variant: image-bg | image: online-seller-consultation-call.jpg | alt: "E-commerce business owner on a video call consultation" | query: "business owner video call consultation" -->
-## Let's talk about your online business
+**Q: What do Amazon and Walmart already collect for me under marketplace facilitator laws?**
+A: Marketplace facilitator laws often shift sales tax collection to the marketplace on your behalf, but they don't remove every obligation. We give guidance on what Amazon and Walmart already collect, so you know where registration or filing may still be required for your business.
 
-Whether you're running a single Shopify store or juggling Amazon, Walmart, eBay, and Etsy storefronts at once, your numbers should tell you something useful. Berg Advisors works with sellers by video call and shared dashboards, wherever your business is registered.
+**Q: What's included besides bookkeeping?**
+A: Monthly close and reconciliations come with business and personal tax preparation, year-end 1099s, tax planning, and quarterly strategy calls on cash flow and budgets. Everything is covered by one flat monthly fee and documented in your mutual success plan.
 
-[Schedule a consultation](/contact-us) to talk through where your books stand today and what a flat monthly fee looks like for a business like yours.
+<!-- block: cta-banner | variant: color-bg-centered -->
+## Ready to see which channel earns its keep?
+
+Tell us where your books stand today, and we'll walk through what a flat monthly fee looks like for your business.
+
+[Book a multi-channel books review](/contact-us)
 
 ---
 ## SEO & AIO Metadata
