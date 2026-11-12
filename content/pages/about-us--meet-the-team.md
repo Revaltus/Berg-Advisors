@@ -45,10 +45,6 @@ Joshua brings CPA-level rigor to business and personal tax planning, preparation
 
 Lindsey manages the monthly close and financial reporting process that turns a set of books into something owners actually use to make decisions.
 
-<!-- block: feature-grid | variant: 3-col -->
-## Specialists in e-commerce, family office, and property management accounting
-
-Generalist bookkeeping doesn't work for a multi-channel Amazon seller reconciling six sales platforms, and it doesn't work for a family office juggling a dozen entities either. Berg Advisors built specialist tracks instead of a single generic service, and specific people on the team own each one.
 <!-- block: logo-bar -->
 
 <!-- block: process-steps | variant: horizontal -->
