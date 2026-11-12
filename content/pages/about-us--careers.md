@@ -27,31 +27,6 @@ Most accounting firms measure success in billable hours. Berg Advisors measures 
 
 Our team operates on fixed monthly fees, not the billable-hour treadmill. That changes how we work: less pressure to pad timesheets, more time spent solving actual client problems. Over 30 years of combined CPA experience shapes how we train, mentor, and promote from within. Whether you're early in your career or bring a decade of public accounting behind you, Berg Advisors gives you room to specialize and grow without losing the collaborative, relationship-first culture that makes people stay.
 
-<!-- block: feature-grid | variant: 3-col -->
-## Why accountants and bookkeepers choose Berg Advisors
-
-Top accounting talent doesn't join a firm for the logo. They join for how the work actually feels day to day, and for the chance to build expertise that sets them apart.
-
-### No billable-hour pressure
-icon: Clock
-
-Fixed monthly fees mean nobody's stopwatch-timing a phone call. You spend your energy on accurate books and client advice, not on justifying tenths of an hour to a partner.
-
-### Recognized by the industry
-icon: Award
-
-Berg Advisors has been named a Woodard Top 50 Accounting Firm and recognized as an Intuit Firm of the Future. Those aren't participation trophies. They reflect how we run a modern, technology-forward practice.
-
-### 30+ years of combined expertise
-icon: Briefcase
-
-Our CPAs and EAs bring decades of public accounting experience across tax, advisory, and outsourced accounting. New hires learn from people who've solved the problem before, not just read about it.
-
-### Specialized, not generalist, work
-icon: Target
-
-We serve multi-channel e-commerce sellers, property management companies, and family offices. That focus means deep, marketable expertise in accrual accounting, multi-state sales tax nexus, and multi-entity reporting instead of a little bit of everything.
-
 <!-- block: content-split | variant: image-right | image: team-video-call-planning.jpg | alt: "Accounting team members on a video call reviewing client reports" | query: "remote accounting team video call" -->
 
 <!-- block: checklist-section | variant: with-image | image: accountant-multistate-tax-review.jpg | alt: "Accountant reviewing multi-state sales tax documents at a desk" | query: "accountant reviewing tax documents desk" -->
