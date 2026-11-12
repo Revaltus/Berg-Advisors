@@ -27,6 +27,11 @@ Most accounting firms measure success in billable hours. Berg Advisors measures 
 
 Our team operates on fixed monthly fees, not the billable-hour treadmill. That changes how we work: less pressure to pad timesheets, more time spent solving actual client problems. Over 30 years of combined CPA experience shapes how we train, mentor, and promote from within. Whether you're early in your career or bring a decade of public accounting behind you, Berg Advisors gives you room to specialize and grow without losing the collaborative, relationship-first culture that makes people stay.
 
+<!-- block: content-prose -->
+## Want to work with our team?
+
+Note: A job application form needs to be inserted here.
+
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Careers at Berg Advisors
 
