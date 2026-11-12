@@ -35,12 +35,11 @@ Bookkeeping is the foundation everything else sits on, and it's usually the firs
 Every engagement runs on a flat monthly fee, so a busy month never turns into a surprise bill. At the start of the relationship, we build a mutual success plan with you, so the reporting you receive matches how you run your business. Small business owners in Pennsylvania and across the nation hire Berg Advisors to take the books off their plate entirely.
 
 <!-- block: checklist-section | variant: with-image-left | image: tax-planning-meeting.jpg | alt: "CPA and small business owner reviewing tax documents together" | query: "tax planning meeting small business owner" -->
-## Business and personal tax preparation and planning
+## Business tax preparation and planning
 
-Tax season shouldn't be the only time you hear from your accountant. Berg Advisors handles business and personal income tax preparation and pairs it with planning conversations throughout the year, so decisions get made in June instead of scrambled together in March.
+Tax season shouldn't be the only time you hear from your accountant. Berg Advisors handles business tax preparation and pairs it with planning conversations throughout the year, so decisions get made in June instead of scrambled together in March.
 
 - Business tax preparation for LLCs, S-corps, and multi-entity structures
-- Personal income tax preparation for owners and their households
 - Year-end 1099 preparation and filing
 - Ongoing tax planning and strategy, built into your regular check-ins
 - Audit protection and representation if the IRS sends a notice
