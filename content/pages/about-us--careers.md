@@ -31,13 +31,6 @@ Our team operates on fixed monthly fees, not the billable-hour treadmill. That c
 
 <!-- block: checklist-section | variant: with-image | image: accountant-multistate-tax-review.jpg | alt: "Accountant reviewing multi-state sales tax documents at a desk" | query: "accountant reviewing tax documents desk" -->
 
-<!-- block: process-steps | variant: horizontal -->
-## How to apply for a position at Berg Advisors
-
-Want to work with our team? We hire for fit and trajectory as much as for a specific opening, and roles open throughout the year as our e-commerce, property management, and family office client base grows.
-
-### 
-
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Careers at Berg Advisors
 
