@@ -46,8 +46,6 @@ icon: ChartLine
 
 Cash flow management, budget development, succession planning, and recurring [advisory calls](/services/advisory) that turn a financial report into a decision about hiring, pricing, or your next warehouse lease.
 
-Every engagement starts with the same conversation: what's working, what's not, and what you actually need from your accountant this year.
-
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Specialized support for e-commerce, property management, and family offices
 

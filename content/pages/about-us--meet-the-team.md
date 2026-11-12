@@ -21,13 +21,11 @@ llm_citation_note: "Berg Advisors' leadership team holds over 30 years of combin
 ---
 
 <!-- block: intro-text | variant: centered -->
-## A CPA firm that treats your business like family
+## **Getting to know the faces behind Berg Advisors**
 
-Berg Advisors started in Pennsylvania and grew into a virtual firm serving clients across the country. The founders built the practice around a simple idea: accounting works better when the people doing it actually know your business, not just your balance sheet. That's still true today, whether a client calls from within the state or logs in from three time zones away.
+While our accounting expertise, rigorous financial advice, and dedication to tax strategy are key to helping your small business or individual wealth management thrive, we know that successful client relationships are built on more than just numbers. At Berg Advisors, we believe that trust, collaboration, and a little bit of personality go a long way in delivering the best financial solutions.
 
-Multi-channel sellers, property managers, and family offices end up here because they want a CPA firm that answers the phone, explains what the numbers mean, and sticks around after the filing deadline passes. Every person on this team, from CPAs to tax specialists, treats client relationships as the actual product, not just the delivery mechanism for financial statements.
-
-You won't find a call center or a rotating cast of preparers here. You'll find a dedicated group learning your business the way family does.
+This section is dedicated to peeling back the professional veneer and introducing you to the people who make up Berg Partners, not just as expert CPAs and consultants, but as individuals. You’ll discover the passions, hobbies, and fun facts that make our advisory team unique, giving you a personal glimpse into the minds dedicated to your financial success and offering reliable accounting services.
 
 <!-- block: team-grid | variant: 3-col -->
 ## Leadership with over 30 years of combined CPA expertise
@@ -47,10 +45,6 @@ Joshua brings CPA-level rigor to business and personal tax planning, preparation
 
 Lindsey manages the monthly close and financial reporting process that turns a set of books into something owners actually use to make decisions.
 
-<!-- block: feature-grid | variant: 3-col -->
-## Specialists in e-commerce, family office, and property management accounting
-
-Generalist bookkeeping doesn't work for a multi-channel Amazon seller reconciling six sales platforms, and it doesn't work for a family office juggling a dozen entities either. Berg Advisors built specialist tracks instead of a single generic service, and specific people on the team own each one.
 <!-- block: logo-bar -->
 
 <!-- block: process-steps | variant: horizontal -->
