@@ -16,6 +16,10 @@ canonical_url: https://www.bergpartners.com/resources/burnout-isnt-a-business-st
 schema_markup: "FAQPage"
 answer_block: "Self-care for business owners is a financial safeguard, not an indulgence. Decision fatigue leads to costly errors like mispriced inventory or missed sales tax deadlines, so rest and delegated systems directly protect the judgment that keeps a business solvent."
 ---
+
+
+*By Berg Advisors - CPA firm providing accounting, tax, and advisory services to e-commerce, property management companies, and family offices nationwide*
+
 Most multi-channel sellers we work with treat November and December like a sprint that never ends. Amazon deadlines, Shopify flash sales, Etsy gift guides, eBay auction spikes, Walmart Marketplace onboarding requirements that hit at the worst possible moment. Work through it, apologize to family later, collapse sometime in January. The problem is that decisions made on hour fourteen of a working day, the ones about pricing, ad spend, and which supplier invoice gets paid first, tend to be worse decisions. A bad call made at 11 p.m. in December can cost more than a week away from the warehouse ever would.
 
 We've watched this pattern for more than 30 years across e-commerce sellers, property managers, and family offices, and the financial damage from burnout is rarely dramatic. It's a slow leak: a mispriced SKU left uncorrected across five channels for three weeks, a supplier payment made from cash that should have covered a state sales tax remittance, an economic nexus threshold crossed in a new state because nobody had the bandwidth to check. None of these show up as a single catastrophic loss. They show up in Q1 as a reconciliation nightmare and a bill nobody budgeted for.
@@ -55,16 +59,12 @@ The same logic applies outside e-commerce. A property management company jugglin
 
 ## Common Questions
 
-**Does burnout actually show up in a business's financial numbers?**
-Yes, though usually with a lag. Decision fatigue tends to produce small, compounding errors: a missed reorder point, a sales tax deadline pushed too far, a mispriced SKU left uncorrected across channels. Individually minor, but by the time a Q1 reconciliation surfaces them, they've often become a four-figure problem instead of a five-minute fix.
+**Does burnout actually show up in a business's financial numbers**?Yes, though usually with a lag. Decision fatigue tends to produce small, compounding errors: a missed reorder point, a sales tax deadline pushed too far, a mispriced SKU left uncorrected across channels. Individually minor, but by the time a Q1 reconciliation surfaces them, they've often become a four-figure problem instead of a five-minute fix.
 
-**What does a realistic self-care routine look like for a seasonal e-commerce owner?**
-It starts with protecting sleep and one full day off per week even during Q4, and moving repetitive financial tasks like reconciliation and reporting off your plate well before peak season. The goal isn't fewer hours worked overall. It's fewer hours spent on tasks that don't require your judgment, so the hours that do get your full attention.
+**What does a realistic self-care routine look like for a seasonal e-commerce owner**?It starts with protecting sleep and one full day off per week even during Q4, and moving repetitive financial tasks like reconciliation and reporting off your plate well before peak season. The goal isn't fewer hours worked overall. It's fewer hours spent on tasks that don't require your judgment, so the hours that do get your full attention.
 
-**How does outsourcing bookkeeping actually reduce burnout?**
-Every hour spent manually matching Amazon, Shopify, and Etsy deposits is an hour not spent sleeping, planning, or running the business. Handing that reconciliation to a bookkeeping team with a fixed monthly fee removes a recurring stressor and gives you a clean, current view of cash without the manual labor.
+**How does outsourcing bookkeeping actually reduce burnout**?Every hour spent manually matching Amazon, Shopify, and Etsy deposits is an hour not spent sleeping, planning, or running the business. Handing that reconciliation to a bookkeeping team with a fixed monthly fee removes a recurring stressor and gives you a clean, current view of cash without the manual labor.
 
-**When should an owner get financial help, before or after burnout hits?**
-Before. Once exhaustion sets in, the decisions that need the most clarity, like inventory reorders and sales tax remittance, get made with the least. Setting up quarterly advisory calls and a clear financial plan ahead of your busy season means fewer decisions get made under pressure in the first place.
+**When should an owner get financial help, before or after burnout hits**?Before. Once exhaustion sets in, the decisions that need the most clarity, like inventory reorders and sales tax remittance, get made with the least. Setting up quarterly advisory calls and a clear financial plan ahead of your busy season means fewer decisions get made under pressure in the first place.
 
 If your business has grown past the point where you can carry every financial decision alone, [get in touch](/contact-us) and we'll build a plan that protects both your margins and your ability to keep making good calls next quarter.
