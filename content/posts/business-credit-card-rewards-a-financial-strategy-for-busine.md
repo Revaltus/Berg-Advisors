@@ -16,9 +16,12 @@ canonical_url: https://www.bergpartners.com/resources/business-credit-card-rewar
 schema_markup: "FAQPage"
 answer_block: "Credit card rewards earned through business spending are generally treated as a rebate, not taxable income, but sign-up bonuses without a spending requirement can be taxable. The right card depends on matching bonus categories to your actual spend, whether that's inventory, advertising, or freight, and rewards should be coded as a reduction to expenses, not miscellaneous income."
 ---
+
+*By Berg Advisors - CPA firm providing accounting, tax, and advisory services to e-commerce, property management companies, and family offices nationwide*
+
 A Shopify and Amazon seller running $80,000 a month through inventory purchases, freight, ad spend, and packaging can rack up $12,000 to $18,000 a year in credit card rewards without trying very hard. Most owners treat that as a nice surprise instead of a number worth planning around. It shouldn't be an afterthought. Rewards touch your cash flow, your tax return, and your bookkeeping all at once, and the card you picked three years ago for the sign-up bonus may not fit the business you run today.
 
-For multi-channel sellers juggling Amazon FBA fees, [Shopify subscriptions](/resources/take-back-control-of-subscription-creep-2), Meta and Google ad spend, and freight invoices, the spending categories are lopsided in ways a generic small-business credit card doesn't reward. Treating the card as a planning tool, not just a payment method, changes how much you actually keep.
+For multi-channel sellers juggling Amazon FBA fees, Shopify subscriptions, Meta and Google ad spend, and freight invoices, the spending categories are lopsided in ways a generic small-business credit card doesn't reward. Treating the card as a planning tool, not just a payment method, changes how much you actually keep.
 
 ## Are credit card rewards taxable income for your business
 
