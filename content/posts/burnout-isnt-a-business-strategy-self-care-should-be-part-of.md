@@ -28,7 +28,7 @@ We've watched this pattern for more than 30 years across e-commerce sellers, pro
 
 Decision fatigue is a documented phenomenon, and it hits small business owners harder than almost anyone because there's no one else to hand the decision to. An Amazon seller managing inventory across three fulfillment centers, a Shopify storefront, and a wholesale account has to make dozens of judgment calls a day: reorder now or wait for the next PO discount, raise ad spend on a trending SKU or hold cash for Q4, figure out whether a new state's economic nexus threshold has been crossed and what that means for sales tax. Every one of those calls tends to be sharper when the person making it is rested.
 
-Our team often sees sales tax nexus problems that aren't knowledge gaps, they're bandwidth gaps. Picture a hypothetical owner who knows a new state's threshold exists but doesn't have the mental room to check it during peak season. By the time they do, back taxes and penalties may already be in play. That's not a compliance failure. It's an exhaustion failure with a compliance price tag.
+Our team often sees sales tax nexus problems that aren't knowledge gaps, they're bandwidth gaps. Picture an owner who knows a new state's threshold exists but doesn't have the mental room to check it during peak season. By the time they do, back taxes and penalties may already be in play. That's not a compliance failure. It's an exhaustion failure with a compliance price tag.
 
 ## Owners equate exhaustion with commitment, and the math says otherwise
 
@@ -51,7 +51,7 @@ None of this is about working less for its own sake. It's about making sure the 
 
 ## What this looks like during Q4 peak season
 
-Imagine a hypothetical multi-channel seller who starts inventory planning in late summer: forecasting Q4 demand across Amazon FBA and a Shopify storefront, locking supplier orders early, and reviewing multi-state sales tax exposure with their advisors before the November rush hits. A timeline like that exists so the busiest weeks aren't spent making inventory and tax decisions under pressure. By the time Black Friday orders start coming in, the major financial decisions are already made, and the owner's attention goes to fulfillment and customer service instead of spreadsheets at midnight.
+Imagine a multi-channel seller who starts inventory planning in late summer: forecasting Q4 demand across Amazon FBA and a Shopify storefront, locking supplier orders early, and reviewing multi-state sales tax exposure with their advisors before the November rush hits. A timeline like that exists so the busiest weeks aren't spent making inventory and tax decisions under pressure. By the time Black Friday orders start coming in, the major financial decisions are already made, and the owner's attention goes to fulfillment and customer service instead of spreadsheets at midnight.
 
 That kind of planning takes coordination between the owner and whoever handles the books, which is why proactive, scheduled communication matters more than reactive answers to panicked emails. At Berg Advisors, a mutual success plan, set at the start of the relationship, spells out who's checking nexus thresholds, who's reviewing cash flow before peak season, and when those conversations happen. When the plan exists on paper, an owner isn't relying on memory or adrenaline to catch problems in real time.
 
