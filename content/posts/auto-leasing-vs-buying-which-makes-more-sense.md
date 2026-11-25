@@ -17,7 +17,7 @@ schema_markup: "BlogPosting"
 answer_block: "For most e-commerce business owners, leasing may preserve cash flow when mileage is modest, while buying may make sense for high-mileage use, heavier vehicles that could be eligible for Section 179, or when you need the asset on your balance sheet. The right call depends on your mileage pattern, tax situation, and how seasonal your revenue is."
 ---
 
-By Berg Advisors - CPA firm providing accounting, tax, and advisory services to e-commerce, property management companies, and family offices nationwide
+*By Berg Advisors - CPA firm providing accounting, tax, and advisory services to e-commerce, property management companies, and family offices nationwide*
 
 If you're running a multi-channel e-commerce operation, at some point you need a vehicle you can count on: sourcing runs to a wholesale club, drop-offs at your 3PL, occasional local delivery when a marketplace glitch means you're hand-fulfilling an order yourself. The dealership will hand you two numbers, a lease payment and a loan payment, and tell you to pick whichever feels lighter. That's the wrong way to make this decision, and it's not even close.
 
